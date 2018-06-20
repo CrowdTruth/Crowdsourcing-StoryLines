@@ -1,0 +1,228 @@
+  
+<label class="legend">STEP 1: Read the following text. </label>
+<div class="alignment">
+  <fieldset>
+    <legend>Text:</legend>
+    <div class="passage" id="people">{{sentence1}}</div>
+  </fieldset>
+  <hr />
+  <br />
+  
+  <div id="selection">
+    <div class="people">{{sentence1}}</div>
+  </div>
+
+  <cml:checkboxes class="checkbox rando" label="STEP 2: Select ALL THE STATEMENTS between the highlighted terms that are expressed in the sentence above." validates="required" name="relations" instructions="Select a statement only if it is expressed in the given sentence. Multiple selection are possible.">
+    {% assign eventsp1 = {{pair1}} | split: ', ' %}
+    {% assign event1 = {{eventsp1.first}} | split: '_' %}
+    {% assign event2 = {{eventsp1.last}} | split: '_' %}
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> caused &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp1.first}}--{{eventsp1.last}}"/>
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> is caused by &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp1.first}}-r-{{eventsp1.last}}"/>
+    {% if pair2 != 'No data available' %}
+      {% assign eventsp2 = {{pair2}} | split: ', ' %}
+      {% assign event1 = {{eventsp2.first}} | split: '_' %}
+      {% assign event2 = {{eventsp2.last}} | split: '_' %}
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> caused &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp2.first}}--{{eventsp2.last}}"/>
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> is caused by &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp2.first}}-r-{{eventsp2.last}}"/>
+    {% endif %}
+    {% if pair3 != 'No data available' %}
+      {% assign eventsp3 = {{pair3}} | split: ', ' %}
+      {% assign event1 = {{eventsp3.first}} | split: '_' %}
+      {% assign event2 = {{eventsp3.last}} | split: '_' %}
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> caused &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp3.first}}--{{eventsp3.last}}"/>
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> is caused by &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp3.first}}-r-{{eventsp3.last}}"/>
+    {% endif %}
+    {% if pair4 != 'No data available' %}
+      {% assign eventsp4 = {{pair4}} | split: ', ' %}
+      {% assign event1 = {{eventsp4.first}} | split: '_' %}
+      {% assign event2 = {{eventsp4.last}} | split: '_' %}
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> caused &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp4.first}}--{{eventsp4.last}}"/>
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> is caused by &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp4.first}}-r-{{eventsp4.last}}"/>
+    {% endif %}
+    {% if pair5 != 'No data available' %}
+      {% assign eventsp5 = {{pair5}} | split: ', ' %}
+      {% assign event1 = {{eventsp5.first}} | split: '_' %}
+      {% assign event2 = {{eventsp5.last}} | split: '_' %}
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> caused &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp5.first}}--{{eventsp5.last}}"/>
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> is caused by &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp5.first}}-r-{{eventsp5.last}}"/>
+    {% endif %}
+    {% if pair6 != 'No data available' %}
+      {% assign eventsp6 = {{pair6}} | split: ', ' %}
+      {% assign event1 = {{eventsp6.first}} | split: '_' %}
+      {% assign event2 = {{eventsp6.last}} | split: '_' %}
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> caused &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp6.first}}--{{eventsp6.last}}"/>
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> is caused by &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp6.first}}-r-{{eventsp6.last}}"/>
+    {% endif %}
+    {% if pair7 != 'No data available' %}
+      {% assign eventsp7 = {{pair7}} | split: ', ' %}
+      {% assign event1 = {{eventsp7.first}} | split: '_' %}
+      {% assign event2 = {{eventsp7.last}} | split: '_' %}
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> caused &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp7.first}}--{{eventsp7.last}}"/>
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> is caused by &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp7.first}}-r-{{eventsp7.last}}"/>
+    {% endif %}
+    {% if pair8 != 'No data available' %}
+      {% assign eventsp8 = {{pair8}} | split: ', ' %}
+      {% assign event1 = {{eventsp8.first}} | split: '_' %}
+      {% assign event2 = {{eventsp8.last}} | split: '_' %}
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> caused &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp8.first}}--{{eventsp8.last}}"/>
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> is caused by &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp8.first}}-r-{{eventsp8.last}}"/>
+    {% endif %}
+    {% if pair9 != 'No data available' %}
+      {% assign eventsp9 = {{pair9}} | split: ', ' %}
+      {% assign event1 = {{eventsp9.first}} | split: '_' %}
+      {% assign event2 = {{eventsp9.last}} | split: '_' %}
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> caused &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp9.first}}--{{eventsp9.last}}"/>
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> is caused by &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp9.first}}-r-{{eventsp9.last}}"/>
+    {% endif %}
+    {% if pair10 != 'No data available' %}
+      {% assign eventsp10 = {{pair10}} | split: ', ' %}
+      {% assign event1 = {{eventsp10.first}} | split: '_' %}
+      {% assign event2 = {{eventsp10.last}} | split: '_' %}
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> caused &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp10.first}}--{{eventsp10.last}}"/>
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> is caused by &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp10.first}}-r-{{eventsp10.last}}"/>
+    {% endif %}
+    {% if pair11 != 'No data available' %}
+      {% assign eventsp11 = {{pair11}} | split: ', ' %}
+      {% assign event1 = {{eventsp11.first}} | split: '_' %}
+      {% assign event2 = {{eventsp11.last}} | split: '_' %}
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> caused &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp11.first}}--{{eventsp11.last}}"/>
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> is caused by &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp11.first}}-r-{{eventsp11.last}}"/>
+    {% endif %}
+    {% if pair12 != 'No data available' %}
+      {% assign eventsp12 = {{pair12}} | split: ', ' %}
+      {% assign event1 = {{eventsp12.first}} | split: '_' %}
+      {% assign event2 = {{eventsp12.last}} | split: '_' %}
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> caused &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp12.first}}--{{eventsp12.last}}"/>
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> is caused by &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp12.first}}-r-{{eventsp12.last}}"/>
+    {% endif %}
+    {% if pair13 != 'No data available' %}
+      {% assign eventsp13 = {{pair13}} | split: ', ' %}
+      {% assign event1 = {{eventsp13.first}} | split: '_' %}
+      {% assign event2 = {{eventsp13.last}} | split: '_' %}
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> caused &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp13.first}}--{{eventsp13.last}}"/>
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> is caused by &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp13.first}}-r-{{eventsp13.last}}"/>
+    {% endif %}
+    {% if pair14 != 'No data available' %}
+      {% assign eventsp14 = {{pair14}} | split: ', ' %}
+      {% assign event1 = {{eventsp14.first}} | split: '_' %}
+      {% assign event2 = {{eventsp14.last}} | split: '_' %}
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> caused &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp14.first}}--{{eventsp14.last}}"/>
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> is caused by &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp14.first}}-r-{{eventsp14.last}}"/>
+    {% endif %}
+    {% if pair15 != 'No data available' %}
+      {% assign eventsp15 = {{pair15}} | split: ', ' %}
+      {% assign event1 = {{eventsp15.first}} | split: '_' %}
+      {% assign event2 = {{eventsp15.last}} | split: '_' %}
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> caused &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp15.first}}--{{eventsp15.last}}"/>
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> is caused by &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp15.first}}-r-{{eventsp15.last}}"/>
+    {% endif %}
+    {% if pair16 != 'No data available' %}
+      {% assign eventsp16 = {{pair16}} | split: ', ' %}
+      {% assign event1 = {{eventsp16.first}} | split: '_' %}
+      {% assign event2 = {{eventsp16.last}} | split: '_' %}
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> caused &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp16.first}}--{{eventsp16.last}}"/>
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> is caused by &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp16.first}}-r-{{eventsp16.last}}"/>
+    {% endif %}
+    {% if pair17 != 'No data available' %}
+      {% assign eventsp17 = {{pair17}} | split: ', ' %}
+      {% assign event1 = {{eventsp17.first}} | split: '_' %}
+      {% assign event2 = {{eventsp17.last}} | split: '_' %}
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> caused &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp17.first}}--{{eventsp17.last}}"/>
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> is caused by &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp17.first}}-r-{{eventsp17.last}}"/>
+    {% endif %}
+    {% if pair18 != 'No data available' %}
+      {% assign eventsp18 = {{pair18}} | split: ', ' %}
+      {% assign event1 = {{eventsp18.first}} | split: '_' %}
+      {% assign event2 = {{eventsp18.last}} | split: '_' %}
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> caused &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp18.first}}--{{eventsp18.last}}"/>
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> is caused by &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp18.first}}-r-{{eventsp18.last}}"/>
+    {% endif %}
+    {% if pair19 != 'No data available' %}
+      {% assign eventsp19 = {{pair19}} | split: ', ' %}
+      {% assign event1 = {{eventsp19.first}} | split: '_' %}
+      {% assign event2 = {{eventsp19.last}} | split: '_' %}
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> caused &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp19.first}}--{{eventsp19.last}}"/>
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> is caused by &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp19.first}}-r-{{eventsp19.last}}"/>
+    {% endif %}
+    {% if pair20 != 'No data available' %}
+      {% assign eventsp20 = {{pair20}} | split: ', ' %}
+      {% assign event1 = {{eventsp20.first}} | split: '_' %}
+      {% assign event2 = {{eventsp20.last}} | split: '_' %}
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> caused &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp20.first}}--{{eventsp20.last}}"/>
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> is caused by &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp20.first}}-r-{{eventsp20.last}}"/>
+    {% endif %}
+    {% if pair21 != 'No data available' %}
+      {% assign eventsp21 = {{pair21}} | split: ', ' %}
+      {% assign event1 = {{eventsp21.first}} | split: '_' %}
+      {% assign event2 = {{eventsp21.last}} | split: '_' %}
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> caused &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp21.first}}--{{eventsp21.last}}"/>
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> is caused by &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp21.first}}-r-{{eventsp21.last}}"/>
+    {% endif %}
+    {% if pair22 != 'No data available' %}
+      {% assign eventsp22 = {{pair22}} | split: ', ' %}
+      {% assign event1 = {{eventsp22.first}} | split: '_' %}
+      {% assign event2 = {{eventsp22.last}} | split: '_' %}
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> caused &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp22.first}}--{{eventsp22.last}}"/>
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> is caused by &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp22.first}}-r-{{eventsp22.last}}"/>
+    {% endif %}
+    {% if pair23 != 'No data available' %}
+      {% assign eventsp23 = {{pair23}} | split: ', ' %}
+      {% assign event1 = {{eventsp23.first}} | split: '_' %}
+      {% assign event2 = {{eventsp23.last}} | split: '_' %}
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> caused &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp23.first}}--{{eventsp23.last}}"/>
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> is caused by &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp23.first}}-r-{{eventsp23.last}}"/>
+    {% endif %}
+    {% if pair24 != 'No data available' %}
+      {% assign eventsp24 = {{pair24}} | split: ', ' %}
+      {% assign event1 = {{eventsp24.first}} | split: '_' %}
+      {% assign event2 = {{eventsp24.last}} | split: '_' %}
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> caused &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp24.first}}--{{eventsp24.last}}"/>
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> is caused by &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp24.first}}-r-{{eventsp24.last}}"/>
+    {% endif %}
+    {% if pair25 != 'No data available' %}
+      {% assign eventsp25 = {{pair25}} | split: ', ' %}
+      {% assign event1 = {{eventsp25.first}} | split: '_' %}
+      {% assign event2 = {{eventsp25.last}} | split: '_' %}
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> caused &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp25.first}}--{{eventsp25.last}}"/>
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> is caused by &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp25.first}}-r-{{eventsp25.last}}"/>
+    {% endif %}
+    {% if pair26 != 'No data available' %}
+      {% assign eventsp26 = {{pair26}} | split: ', ' %}
+      {% assign event1 = {{eventsp26.first}} | split: '_' %}
+      {% assign event2 = {{eventsp26.last}} | split: '_' %}
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> caused  &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp26.first}}--{{eventsp26.last}}"/>
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> is caused by &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp26.first}}-r-{{eventsp26.last}}"/>
+    {% endif %}
+    {% if pair27 != 'No data available' %}
+      {% assign eventsp27 = {{pair27}} | split: ', ' %}
+      {% assign event1 = {{eventsp27.first}} | split: '_' %}
+      {% assign event2 = {{eventsp27.last}} | split: '_' %}
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> caused &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp27.first}}--{{eventsp27.last}}"/>
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> is caused by &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp27.first}}-r-{{eventsp27.last}}"/>
+    {% endif %}
+    {% if pair28 != 'No data available' %}
+      {% assign eventsp28 = {{pair28}} | split: ', ' %}
+      {% assign event1 = {{eventsp28.first}} | split: '_' %}
+      {% assign event2 = {{eventsp28.last}} | split: '_' %}
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> caused &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp28.first}}--{{eventsp28.last}}"/>
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> is caused by &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp28.first}}-r-{{eventsp28.last}}"/>
+    {% endif %}
+    {% if pair29 != 'No data available' %}
+      {% assign eventsp29 = {{pair29}} | split: ', ' %}
+      {% assign event1 = {{eventsp29.first}} | split: '_' %}
+      {% assign event2 = {{eventsp29.last}} | split: '_' %}
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> caused &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp29.first}}--{{eventsp29.last}}"/>
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> is caused by &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp29.first}}-r-{{eventsp29.last}}"/>
+    {% endif %}
+    {% if pair30 != 'No data available' %}
+      {% assign eventsp30 = {{pair30}} | split: ', ' %}
+      {% assign event1 = {{eventsp30.first}} | split: '_' %}
+      {% assign event2 = {{eventsp30.last}} | split: '_' %}
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> caused &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp30.first}}--{{eventsp30.last}}"/>
+    <cml:checkbox label="&lt;b>{{event1.first}}&lt;/b> is caused by &lt;b>{{event2.first}}&lt;/b>" value="{{eventsp30.first}}-r-{{eventsp30.last}}"/>
+    {% endif %}
+    <cml:checkbox label="No causal relations expressed between the words highlighted" value="no_relation"/>
+  </cml:checkboxes>
+  
+  <cml:textarea class='notPossible' name="notpossible" label="Explain why there is no causal relation between the highlighted words." validates="required minLength:10" only-if="relations:[no_relation]"/>
+</div>

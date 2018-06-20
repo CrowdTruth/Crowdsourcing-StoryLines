@@ -1,0 +1,81 @@
+.type .cml_row label {
+  float:left;
+  margin-right: 20px;
+}
+
+label.legend {
+  padding-left: 20px;  
+}
+
+b {
+   color: darkred;
+  font-size: medium;
+  font-weight: bold;
+  text-transform: uppercase;
+  /* color: #0000A0;*/
+}
+
+.alignment hr { margin-top: 22px; }
+.alignment fieldset { border: 1px solid #737373; padding: 10px; margin: 0px;      -webkit-border-radius: 5px;
+     -moz-border-radius: 5px;
+     border-radius: 5px; }
+.alignment legend { border: 0px; margin: 0px; padding: 0 5px 0 5px; width: auto; font-weight: inherit; font-size: inherit; line-height: inherit; letter-spacing: inherit; }
+.passage { text-align:center; line-height:38px; }
+
+.alignment .passage{ -moz-user-select: none; -khtml-user-select: none; -webkit-user-select: none; user-select: none;}
+
+.passage .word { position:relative; display: inline-block; line-height: 24px; z-index: 5; margin: 0px; padding: 4px 4px 5px 4px; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; }
+.term { position: relative; z-index: 2; margin: 0px; padding: 4px 2px 4px 2px; }
+
+/* nested annotations are smaller than their parents */
+.passage .term .term { padding: 3px 3px 3px 3px; }
+.passage .term .term .term { padding: 2px 4px 3px 4px; }
+.passage .term .term .term .term { padding: 0px 4px 1px 4px; }
+
+.term .checkbox label {      -webkit-box-shadow: inset 0px 1px 1px #fff, 0 1px 0px 0px #000;
+     -moz-box-shadow: inset 0px 1px 1px #fff, 0 1px 0px 0px #000;
+     box-shadow: inset 0px 1px 1px #fff, 0 1px 0px 0px #000;
+
+     -webkit-border-radius: 1px;
+     -moz-border-radius: 1px;
+     border-radius: 1px;}
+.alignment .term:hover { cursor: pointer; cursor: hand; }
+
+.hidden { display: none; 
+position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;}
+
+.instructions { color: #e32636; }
+
+.people { float: left; width: 300px; margin-left:100px; vertical-align: middle; display: table-cell; text-align:center; }
+
+.person { background-color: #A8A8A8 ; border: 1px solid #0B0B61; }
+
+.selected { background-color: yellow; border: 1px solid #0B0B61; }
+
+.variation { background-color: #f3f3f3; border: 1px solid #0B0B61; }
+
+.checkbox input { margin: 5px 0 5px 0;
+  padding: 3px 0 5px 30px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
+
+.checkbox .cml_row {
+  width: 45%;
+  float: left;
+  padding-left: 30px;
+}
+
+.checkbox .instructions {
+  margin: 50;
+  clear:both;
+}
+
+.alternative { margin-bottom: 0px; width: inherit; }
+.alternative .legend { display: none; }
+.alternative .termtype { margin: 0 2px 0 2px; line-height:30px; padding: 4px; }
