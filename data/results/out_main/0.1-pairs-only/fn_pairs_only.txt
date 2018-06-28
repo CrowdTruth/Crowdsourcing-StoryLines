@@ -1,0 +1,34 @@
+1_8ecbplus.xml_4	re - hired_12_22--case_68_72	0.047312393922
+16_10ecbplus.xml_4	weighed_52_59--life_274_278	0.0320731472676
+16_5ecbplus.xml_3	put_173_176--shot_118_122	0.0707433379234
+1_12ecbplus.xml_4	court hearing_60_73--ensconced_126_135	0.0240908291408
+5_2ecbplus.xml_9	job_108_111--belief_48_54	0.0
+5_1ecbplus.xml_18	decision_112_120--reached_66_73	0.0950278751928
+1_18ecbplus.xml_5	headed_46_52--smoking_134_141	0.0
+3_6ecbplus.xml_5	committed_90_99--serving_52_59	0.0829355158412
+8_11ecbplus.xml_2	cuts_48_52--address_95_102	0.097471932184
+1_4ecbplus.xml_7	spent_71_76--jumped_154_160	0.0
+1_4ecbplus.xml_7	spent_71_76--spooked_109_116	0.0
+1_2ecbplus.xml_6	ensconced_14_23--objected_101_109	0.0885089033134
+16_10ecbplus.xml_4	slaying_131_138--life_274_278	0.0657863709682
+1_10ecbplus.xml_4	violation_89_98--case_124_128	0.0444903576481
+1_4ecbplus.xml_3	shifty_87_93--trust_36_41	0.0673503934232
+1_4ecbplus.xml_3	trust_36_41--lie_109_112	0.0
+19_7ecbplus.xml_4	another_158_165--conduct_381_388	0.0
+16_10ecbplus.xml_4	parole_287_293--weighed_52_59	0.0868389343928
+1_12ecbplus.xml_3	chickening out_183_197--fooled_26_32	0.0
+3_10ecbplus.xml_3	captured_130_138--one_204_207	0.0919848732092
+16_4ecbplus.xml_4	shooting_52_60--knocked_90_97	0.0270272339823
+22_12ecbplus.xml_3	suspended_40_49--escorted_85_93	0.0392612837091
+18_5ecbplus.xml_3	shot_52_56--chase_190_195	0.0
+16_8ecbplus.xml_3	knocked_96_103--killed_74_80	0.0235348826665
+16_8ecbplus.xml_3	working_37_44--killed_74_80	0.0
+16_1ecbplus.xml_14	killed_247_253--working_227_234	0.0771528974116
+14_5ecbplus.xml_3	fire_84_88--done_162_166	0.0
+18_11ecbplus.xml_3	chase_163_168--arrested_133_141	0.0781661835067
+33_6ecbplus.xml_7	wounded_97_104--shield_27_33	0.0
+20_2ecbplus.xml_22	tremor_4_10--providing_99_108	0.0638328372231
+19_11ecbplus.xml_3	intervened_7_17--joined in_50_59	0.0834129820715
+16_2ecbplus.xml_8	investigating_177_190--killed_68_74	0.0929812705646
+19_2ecbplus.xml_3	riots_95_100--scrutiny_187_195	0.0
+13_7ecbplus.xml_7	fire_50_54--extinguished_68_80	0.0242197417484

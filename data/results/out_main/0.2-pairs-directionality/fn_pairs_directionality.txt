@@ -1,0 +1,179 @@
+8_6ecbplus.xml_16	clashes_75_82-r-gathered_143_151	0.115672237651
+1_8ecbplus.xml_4	re - hired_12_22-r-case_68_72	0.047312393922
+19_3ecbplus.xml_8	hostile_30_37--control_20_27	0.113578717769
+19_3ecbplus.xml_8	control_20_27-r-broke away_49_59	0.188121470121
+7_5ecbplus.xml_3	stopping_145_153--defending_68_77	0.0876145247273
+19_5ecbplus.xml_2	clashed_170_177--ugly_136_140	0.193790870117
+23_7ecbplus.xml_9	reach_89_94-r-fall_26_30	0.195202988162
+3_2ecbplus.xml_3	stole_127_132--overpowered_71_82	0.0
+7_3ecbplus.xml_17	cornered_13_21--punches_72_79	0.114352860518
+24_3ecbplus.xml_4	set fire_147_155--making off_169_179	0.133827367188
+1_8ecbplus.xml_6	checked in_34_44--leaving_110_117	0.0329507648977
+1_8ecbplus.xml_6	violation_96_105-r-leaving_110_117	0.0
+1_10ecbplus.xml_3	entering_22_30--checked into_153_165	0.167252248075
+7_5ecbplus.xml_1	Wins_70_74--Cruises_54_61	0.195753330664
+1_1ecbplus.xml_7	building_98_106-r-looks forward_52_65	0.185330833689
+16_5ecbplus.xml_3	shot_118_122-r-interviewing_38_50	0.0811177788109
+8_8ecbplus.xml_7	tossed_205_211-r-broke_132_137	0.132051029733
+3_10ecbplus.xml_6	drive_48_53--ran_140_143	0.156295020154
+16_2ecbplus.xml_7	arrest_138_144--murder_122_128	0.0941863318874
+16_10ecbplus.xml_4	weighed_52_59--life_274_278	0.0
+16_5ecbplus.xml_3	put_173_176--shot_118_122	0.0707433379234
+16_5ecbplus.xml_3	burst out_144_153--shot_118_122	0.0696676809013
+1_12ecbplus.xml_4	flight_246_252-r-on her way_211_221	0.120918244398
+1_12ecbplus.xml_4	court hearing_60_73--ensconced_126_135	0.0
+1_10ecbplus.xml_3	checked into_153_165-r-arrest_98_104	0.128936429748
+8_11ecbplus.xml_2	address_95_102--reforms_57_64	0.106891210404
+5_2ecbplus.xml_9	job_108_111-r-fit_79_82	0.0531060759538
+5_2ecbplus.xml_9	job_108_111-r-stubbornness_10_22	0.139163192904
+5_2ecbplus.xml_9	job_108_111-r-belief_48_54	0.0
+5_1ecbplus.xml_18	called_35_41--reached_66_73	0.0
+5_1ecbplus.xml_18	decision_112_120-r-reached_66_73	0.0950278751928
+18_10ecbplus.xml_4	shot_85_89--violence_14_22	0.0673363551846
+3_2ecbplus.xml_11	suffered_77_85-r-break up_52_60	0.180998149102
+12_7ecbplus.xml_4	detected_12_20-r-escorting_108_117	0.13653686828
+8_2ecbplus.xml_3	cuts_163_167--avert_180_185	0.149417616489
+1_18ecbplus.xml_5	headed_46_52-r-smoking_134_141	0.0
+16_7ecbplus.xml_2	cowering_35_44--found_29_34	0.119345802889
+16_6ecbplus.xml_5	investigating_102_115-r-shooting_160_168	0.108577826899
+32_2ecbplus.xml_9	harming_132_139-r-locked up_104_113	0.143750608712
+1_5ecbplus.xml_3	required_205_213--treatment_187_196	0.0755675163516
+3_6ecbplus.xml_5	committed_90_99--serving_52_59	0.0829355158412
+12_4ecbplus.xml_10	operation_66_75-r-mission_114_121	0.186597981126
+22_6ecbplus.xml_4	access_203_209-r-waved_138_143	0.056723743275
+7_1ecbplus.xml_4	recovered_199_208-r-floored_68_75	0.174705240155
+30_8ecbplus.xml_10	services_193_201-r-capacity_166_174	0.0658122141166
+1_15ecbplus.xml_3	leaving_6_13--admitted_113_121	0.125417856376
+1_10ecbplus.xml_3	checked into_153_165--stay_225_229	0.176713251538
+8_11ecbplus.xml_2	cuts_48_52-r-address_95_102	0.0825257805963
+32_5ecbplus.xml_17	harm_67_71--at risk_48_55	0.0910961637424
+32_5ecbplus.xml_17	harm_95_99--at risk_48_55	0.0915048141006
+1_19ecbplus.xml_3	jail time_48_57-r-checking into_61_74	0.0
+1_21ecbplus.xml_3	checked into_18_30--comply_51_57	0.172165178923
+7_2ecbplus.xml_6	fight_143_148-r-dropped_23_30	0.143743763833
+23_3ecbplus.xml_8	sliding down_91_103--fell_84_88	0.058164600334
+16_9ecbplus.xml_4	trial_70_75-r-convicted_92_101	0.0252956536587
+4_1ecbplus.xml_9	became_27_33--popularity_91_101	0.19640481994
+1_4ecbplus.xml_7	spent_71_76--jumped_154_160	0.0
+1_4ecbplus.xml_7	spent_71_76--spooked_109_116	0.0
+1_2ecbplus.xml_6	ensconced_14_23-r-objected_101_109	0.0885089033134
+16_10ecbplus.xml_4	case_231_235--life_274_278	0.105711998699
+5_9ecbplus.xml_10	fan_101_104--firing_46_52	0.193950439722
+8_3ecbplus.xml_26	extinguished_13_25-r-blazes_26_32	0.150643565556
+19_10ecbplus.xml_5	gathered_18_26-r-protest_50_57	0.191429868769
+16_3ecbplus.xml_5	investigation_74_87--knocking_45_53	0.182976879048
+18_10ecbplus.xml_3	passed_89_95--killing_175_182	0.103593025524
+16_10ecbplus.xml_45	appealed_46_54-r-death_9_14	0.138621354922
+16_10ecbplus.xml_45	await_200_205-r-transferred_112_123	0.195599796934
+1_11ecbplus.xml_2	checked into_30_42-r-rehab_60_65	0.164762379527
+16_10ecbplus.xml_4	slaying_131_138--life_274_278	0.0657863709682
+1_4ecbplus.xml_6	walked_112_118--walked_142_148	0.185330833689
+33_9ecbplus.xml_3	accused_63_70--guilty_25_31	0.110021870407
+19_7ecbplus.xml_4	thrashing_75_84--marred_45_51	0.0988352873265
+3_6ecbplus.xml_3	searching_44_53-r-dangerous_104_113	0.171747997166
+1_10ecbplus.xml_4	violation_89_98-r-case_124_128	0.0444903576481
+14_2ecbplus.xml_3	arson_17_22-r-fire_35_39	0.119748028955
+3_8ecbplus.xml_4	answer_21_27-r-escaped_103_110	0.130924971707
+3_8ecbplus.xml_4	pulling_153_160--escaped_103_110	0.18654233292
+14_7ecbplus.xml_3	fight_76_81--blaze_90_95	0.113873836204
+1_4ecbplus.xml_3	shifty_87_93--trust_36_41	0.0
+1_4ecbplus.xml_3	trust_36_41-r-lie_109_112	0.0
+19_3ecbplus.xml_3	broke away_49_59--control_20_27	0.105855014839
+19_7ecbplus.xml_4	another_158_165--conduct_381_388	0.0
+3_2ecbplus.xml_3	walked_151_157-r-handcuffed_109_119	0.130763351599
+3_2ecbplus.xml_3	walked_151_157-r-wearing_162_169	0.161576034603
+13_4ecbplus.xml_34	foul play_36_45--pattern_85_92	0.0539403055406
+35_4ecbplus.xml_3	drunk driving_112_125-r-arrested_87_95	0.119778263406
+16_10ecbplus.xml_4	parole_287_293-r-weighed_52_59	0.0868389343928
+7_10ecbplus.xml_4	sixth_53_58--fight_143_148	0.16451067649
+18_2ecbplus.xml_3	chase_135_140--arrested_87_95	0.144790304712
+18_7ecbplus.xml_3	killing_81_88--accused_19_26	0.134027143361
+22_13ecbplus.xml_4	returned_89_97-r-suspended_18_27	0.143530060076
+30_12ecbplus.xml_4	contingency plans_126_143--connected"_168_178	0.166822632318
+3_3ecbplus.xml_7	revoked_20_27-r-sentence_132_140	0.184162111036
+13_4ecbplus.xml_32	destroyed_21_30--fire_16_20	0.0
+30_12ecbplus.xml_2	Outage_57_63-r-P2P Control_15_26	0.145857015481
+4_9ecbplus.xml_7	mourn_16_21--passing_26_33	0.125955963939
+1_12ecbplus.xml_3	chickening out_183_197--fooled_26_32	0.0
+14_8ecbplus.xml_13	hurt_55_59-r-help_158_162	0.0
+3_6ecbplus.xml_4	took hostage_49_84--escaped_112_119	0.114131842417
+3_2ecbplus.xml_7	theft_178_183--sentences_64_73	0.141423881193
+12_8ecbplus.xml_1	transiting_48_58--attack_21_27	0.144222429855
+30_13ecbplus.xml_6	repair_52_58-r-received_115_123	0.0437611362108
+30_13ecbplus.xml_6	repair_52_58-r-finalized_91_100	0.0437611362108
+5_1ecbplus.xml_3	spun_11_15-r-pushing out_71_82	0.191438731304
+5_1ecbplus.xml_3	spun_11_15-r-bringing in_121_132	0.174145914786
+8_4ecbplus.xml_2	avoid_175_180-r-cuts_158_162	0.188265948226
+3_10ecbplus.xml_3	captured_130_138-r-one_204_207	0.0
+1_1ecbplus.xml_7	looks forward_52_65--treatment_84_93	0.0
+19_2ecbplus.xml_2	Killed_45_51--Riots_0_5	0.186944403756
+18_3ecbplus.xml_3	arrested_110_118-r-suspected_7_16	0.164869659363
+16_4ecbplus.xml_4	shooting_52_60-r-knocked_90_97	0.0270272339823
+22_1ecbplus.xml_6	accused_30_37-r-injuring_81_89	0.167839487395
+14_9ecbplus.xml_6	alarm_70_75--tackled_23_30	0.104053225166
+12_3ecbplus.xml_3	thwarted_50_58-r-apprehending_119_131	0.18929899923
+22_12ecbplus.xml_3	suspended_40_49--executed_189_197	0.124588449779
+22_12ecbplus.xml_3	suspended_40_49--escorted_85_93	0.0392612837091
+22_12ecbplus.xml_3	suspended_40_49--wounded_251_258	0.124588449779
+12_1ecbplus.xml_3	apprehending_125_137-r-thwarted_56_64	0.185014908167
+18_5ecbplus.xml_3	shot_52_56--chase_190_195	0.0
+8_9ecbplus.xml_8	bankruptcy_181_191-r-cuts_143_147	0.0663363383452
+12_7ecbplus.xml_3	foiled_101_107--intercepted_30_41	0.0920379339131
+19_9ecbplus.xml_1	killed_30_36-r-riot_71_75	0.0
+16_8ecbplus.xml_3	knocked_96_103--killed_74_80	0.0235348826665
+16_8ecbplus.xml_3	working_37_44--killed_74_80	0.0
+16_1ecbplus.xml_14	killed_247_253-r-working_227_234	0.0771528974116
+14_5ecbplus.xml_3	fire_84_88--done_162_166	0.0
+8_1ecbplus.xml_3	cuts_156_160--avoid_173_178	0.115364213548
+7_7ecbplus.xml_34	wins_96_100--knockout_118_126	0.0370025496168
+1_14ecbplus.xml_1	Knows_55_61--Checks Into_14_25	0.191453297609
+12_8ecbplus.xml_2	approaching_224_235-r-escorting_30_39	0.049001496567
+14_2ecbplus.xml_2	arson_38_43-r-fire_20_24	0.192284344734
+18_10ecbplus.xml_4	violence_14_22-r-wounded_150_157	0.0265294041464
+18_10ecbplus.xml_4	violence_14_22-r-dead_90_94	0.0358696861268
+33_1ecbplus.xml_11	shots_77_82-r-death_95_100	0.155046811249
+18_11ecbplus.xml_3	chase_163_168--arrested_133_141	0.0781661835067
+8_7ecbplus.xml_4	raise_166_171--bailout_222_229	0.0
+24_5ecbplus.xml_4	making off_148_158--robbery_138_145	0.0
+35_6ecbplus.xml_7	arrest_49_55--drawn_22_27	0.102197613765
+22_5ecbplus.xml_3	charged_42_49--arrested_29_37	0.110659993147
+12_3ecbplus.xml_3	confiscating_154_166--thwarted_50_58	0.179234554209
+24_10ecbplus.xml_3	making off_117_127-r-smashing_88_96	0.124878372641
+19_5ecbplus.xml_6	march_97_102-r-violence_14_22	0.183856790254
+19_6ecbplus.xml_4	intervened_7_17-r-joined_45_51	0.140665896226
+19_6ecbplus.xml_4	shot_180_184--joined_45_51	0.196605086869
+19_6ecbplus.xml_4	vigil_77_82--joined_45_51	0.17603005724
+12_5ecbplus.xml_3	rescued_204_211--attack_170_176	0.0
+33_6ecbplus.xml_7	wounded_97_104-r-shield_27_33	0.0
+33_6ecbplus.xml_7	spray_51_56--shield_27_33	0.150534650527
+30_2ecbplus.xml_5	affecting_280_289-r-cut_181_184	0.157798458973
+13_7ecbplus.xml_7	fight_40_45--fire_50_54	0.0
+13_7ecbplus.xml_7	fight_40_45-r-extinguished_68_80	0.0
+22_13ecbplus.xml_11	apprehended_14_25-r-hid_50_53	0.193538877395
+20_2ecbplus.xml_22	tremor_4_10--service_117_124	0.175889397427
+20_2ecbplus.xml_22	tremor_4_10--providing_99_108	0.0638328372231
+19_2ecbplus.xml_4	opened fire_128_139-r-killed_9_15	0.145129276406
+3_4ecbplus.xml_2	escaped_117_124-r-sentences_103_112	0.0939827777287
+3_3ecbplus.xml_7	revoked_20_27-r-given_112_117	0.152523350781
+19_11ecbplus.xml_3	intervened_7_17-r-joined in_50_59	0.0834129820715
+8_5ecbplus.xml_3	rescuing_139_147-r-cuts_125_129	0.172177636821
+19_6ecbplus.xml_15	approached_125_135--pointing_77_85	0.112860002693
+8_4ecbplus.xml_1	riots_52_57--hits_29_33	0.147938507774
+23_6ecbplus.xml_8	walking_57_64-r-dropped off_10_21	0.1988980374
+16_2ecbplus.xml_8	investigating_177_190--killed_68_74	0.0929812705646
+13_10ecbplus.xml_3	took_89_93-r-fire_4_8	0.0435053533647
+3_11ecbplus.xml_5	escaped_15_22-r-driving_95_102	0.0
+14_6ecbplus.xml_2	Fire_0_4--arson_43_48	0.172234203172
+1_7ecbplus.xml_1	Checks Into_14_25--Rehab_42_47	0.0804211920442
+35_5ecbplus.xml_3	arrested_45_53--driving under the influence_85_112	0.101234646683
+19_2ecbplus.xml_3	riots_95_100-r-scrutiny_187_195	0.0
+19_4ecbplus.xml_1	shot_50_54-r-have_71_75	0.128354632857
+19_4ecbplus.xml_1	riot_9_13-r-have_71_75	0.128354632857
+37_8ecbplus.xml_11	hit_9_12-r-tsunami_71_78	0.170238401608
+19_2ecbplus.xml_3	protests_82_90-r-scrutiny_187_195	0.190818707727
+13_7ecbplus.xml_7	fire_50_54--extinguished_68_80	0.0
+19_8ecbplus.xml_2	shot_31_35--pointed_103_110	0.0999446536021
+19_8ecbplus.xml_2	killed_40_46--pointed_103_110	0.0
+20_4ecbplus.xml_4	blackout_81_89--quake_104_109	0.111348095129
+37_3ecbplus.xml_1	6 . 1 magnitude quake_55_76-r-injured_44_51	0.0101498134607
+23_3ecbplus.xml_1	fall_32_36-r-deaths_46_52	0.0203457614585

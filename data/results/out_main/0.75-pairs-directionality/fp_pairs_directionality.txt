@@ -1,0 +1,238 @@
+3_11ecbplus.xml_4	on the run_110_120--termination_274_285	0.793738733282
+22_9ecbplus.xml_8	frustration_50_61--rampage_124_131	0.799707006015
+3_8ecbplus.xml_4	handcuffing_171_182--walking_238_245	0.75597422298
+22_7ecbplus.xml_3	rampage_103_110--wounded_205_212	0.757783926264
+18_6ecbplus.xml_4	shootings_197_206--guilty_33_39	0.799970335052
+20_4ecbplus.xml_4	struck_118_124-r-quake_104_109	0.781287284715
+5_1ecbplus.xml_4	fire_73_77-r-decided_62_69	0.77807947145
+35_3ecbplus.xml_9	run_68_71-r-legal process_54_67	0.768119483526
+22_2ecbplus.xml_4	returned_119_127--killing_166_173	0.777741201287
+37_9ecbplus.xml_3	6 . 1 - magnitude earthquake_2_30--devastated_181_191	0.779552083142
+32_4ecbplus.xml_10	arrested_44_52--charged_132_139	0.761704138433
+3_4ecbplus.xml_4	stroke_117_123--surprising_35_45	0.796846282264
+16_6ecbplus.xml_17	shooting_80_88--boasting_61_69	0.783358825109
+30_9ecbplus.xml_6	problem_169_176--experienced_97_108	0.756771798961
+32_3ecbplus.xml_4	hearing_14_21-r-murders_62_69	0.784509094645
+12_4ecbplus.xml_3	capturing_132_141--confiscating_188_200	0.75046596927
+12_9ecbplus.xml_3	attack_238_244-r-piracy_231_237	0.815732675717
+18_6ecbplus.xml_4	guilty_33_39-r-murder_92_98	0.819671147138
+37_10ecbplus.xml_4	injured_54_61-r-quake_111_116	0.768832112535
+19_8ecbplus.xml_1	Chaos_30_35-r-'riot'_65_71	0.777517070902
+32_2ecbplus.xml_9	mental health problems_46_68--harming_132_139	0.831535648815
+33_3ecbplus.xml_1	shot_46_50--dead_51_55	0.769615367083
+8_3ecbplus.xml_5	cuts_116_120--strike_64_70	0.791745729612
+33_2ecbplus.xml_7	struck_94_100-r-shooting_108_116	0.766393843296
+30_9ecbplus.xml_2	issues_74_80--update_84_90	0.818843921175
+4_1ecbplus.xml_6	swimming_40_48--experiences_17_28	0.880906303219
+30_9ecbplus.xml_6	downtime_109_117-r-problem_169_176	0.810335298246
+32_1ecbplus.xml_4	dead_100_104--questioned_17_27	0.765466002403
+3_8ecbplus.xml_3	facing_6_12--escaped_264_271	0.794258270211
+35_2ecbplus.xml_3	on suspicion_68_80--arrested_46_54	0.796857230006
+30_13ecbplus.xml_4	restored_95_103-r-repair_222_228	0.816549844796
+33_4ecbplus.xml_5	murder_137_143--trial_144_149	0.805580546099
+4_5ecbplus.xml_4	showcased_51_60-r-glamour_78_85	0.790097705017
+3_8ecbplus.xml_4	walking_238_245--answer_21_27	0.830018347618
+22_2ecbplus.xml_4	suspended_26_35--returned_119_127	0.772967474711
+30_13ecbplus.xml_4	repair_222_228-r-outage_168_174	0.824187556014
+1_8ecbplus.xml_13	drama_110_115-r-rehab_29_34	0.80941878461
+3_3ecbplus.xml_6	imprisoned_17_27-r-burglary_129_137	0.79681628716
+35_4ecbplus.xml_1	DUI_48_51--arrested_23_31	0.764779641976
+19_2ecbplus.xml_4	opened fire_128_139--killed_9_15	0.844526221473
+3_4ecbplus.xml_3	produced_59_67--fired_81_86	0.846545310484
+23_6ecbplus.xml_9	taking_60_66--died_102_106	0.80872337535
+8_7ecbplus.xml_5	inferno_131_138--killed_71_77	0.778189166721
+20_5ecbplus.xml_8	3 . 6_96_101--panic_133_138	0.778710141324
+7_3ecbplus.xml_21	acted_50_55--urging on_92_101	0.832111624834
+35_7ecbplus.xml_3	on suspicion_64_76--arrested_55_63	0.798948165624
+7_10ecbplus.xml_4	count_117_122-r-fight_143_148	0.757192547692
+32_2ecbplus.xml_8	murder_102_108--sectioned_28_37	0.765672491466
+22_2ecbplus.xml_4	suspended_26_35--killing_166_173	0.861702553807
+35_6ecbplus.xml_7	arrest_49_55-r-speeding_136_144	0.759869869827
+33_11ecbplus.xml_5	murder_28_34--arrested_85_93	0.778799431033
+7_3ecbplus.xml_16	struggling_96_106--ended_76_81	0.772058662099
+20_2ecbplus.xml_17	quake_58_63--measuring_64_73	0.752718385467
+22_9ecbplus.xml_38	opened fire_63_74-r-sought out_13_23	0.778847607023
+20_10ecbplus.xml_3	experienced_52_63-r-"tremor"_73_81	0.759204830004
+7_11ecbplus.xml_5	fight_143_148--count_117_122	0.832036712821
+35_9ecbplus.xml_7	intoxicated_119_130--arrest_83_89	0.824940966456
+35_1ecbplus.xml_3	arrest_111_117-r-drunken driving_70_85	0.827618117955
+8_1ecbplus.xml_3	fought_83_89--killed_38_44	0.752713374337
+7_3ecbplus.xml_16	landed_18_24--struggling_96_106	0.885922865414
+3_3ecbplus.xml_7	supervision_4_15--revoked_20_27	0.877313668581
+3_1ecbplus.xml_7	stabbing_69_77--convicted_55_64	0.77329914769
+3_2ecbplus.xml_4	charges_73_80--serving_37_44	0.797437578374
+3_8ecbplus.xml_1	renews_7_13--calls_14_19	0.856706866741
+3_10ecbplus.xml_4	escaped_126_133--wet_11_14	0.798765793518
+30_8ecbplus.xml_8	call - out_41_51--mobilization_56_68	0.849510239143
+16_1ecbplus.xml_14	killed_247_253--investigate_164_175	0.826841212547
+3_3ecbplus.xml_6	sentences_64_73-r-burglary_129_137	0.781110970415
+7_3ecbplus.xml_14	round_16_21--second_48_54	0.754960386552
+37_9ecbplus.xml_3	destroyed_132_141-r-quake_199_204	0.789276746449
+3_1ecbplus.xml_3	transfer_96_104--held hostage_116_133	0.817662558841
+3_3ecbplus.xml_8	assault_174_181--sentence_143_151	0.913570318003
+14_9ecbplus.xml_3	arson_39_44--suspicion_26_35	0.807487784166
+3_4ecbplus.xml_6	convicted_34_43-r-assault_99_106	0.756873480429
+20_6ecbplus.xml_3	hit_26_29--killing_78_85	0.835615767015
+20_6ecbplus.xml_3	hit_26_29--injuring_112_120	0.751052983136
+35_3ecbplus.xml_12	driving under the influence_166_193--arrested_119_127	0.81607444354
+8_3ecbplus.xml_31	smashed_141_148-r-Violence_0_8	0.869022174906
+37_11ecbplus.xml_4	6 . 1 - magnitude earthquake_9_37--in panic_175_183	0.751031407639
+22_3ecbplus.xml_2	shot_24_28--charged_106_113	0.804158673793
+32_4ecbplus.xml_10	discovered_83_93--charged_132_139	0.770662156183
+3_2ecbplus.xml_7	sentences_64_73-r-burglary_129_137	0.785908498049
+3_2ecbplus.xml_7	sentences_64_73-r-rape_107_111	0.785908498049
+37_13ecbplus.xml_7	damages_24_31--fell onto_48_57	0.76872830834
+3_7ecbplus.xml_4	indecency_40_49--serving_12_19	0.865155138084
+32_2ecbplus.xml_9	feared_125_131--pleaded_77_84	0.781787831332
+30_11ecbplus.xml_4	downtime_60_68--experiencing_47_59	0.764467940839
+33_3ecbplus.xml_7	shot_35_39-r-gunfire_154_161	0.817499239866
+33_3ecbplus.xml_31	aiming_25_31--hit_75_78	0.830657433011
+22_6ecbplus.xml_3	murder_159_165-r-shot_24_28	0.786801666202
+18_5ecbplus.xml_3	fired_36_41--wounded_80_87	0.752758781261
+3_2ecbplus.xml_8	charge_77_83--sentence_132_140	0.873612151697
+3_2ecbplus.xml_8	charge_77_83-r-indecency_87_96	0.760167450737
+33_11ecbplus.xml_3	confessed_35_44-r-shoot_176_181	0.767589320102
+7_1ecbplus.xml_19	domination_23_33--extended_10_18	0.789655600813
+37_10ecbplus.xml_4	rocked_68_74-r-6 . 1 - magnitude quake_11_34	0.750320555616
+41_3ecbplus.xml_14	death toll_160_170-r-killed_145_151	0.806369864375
+3_2ecbplus.xml_4	indecency_93_102--charges_73_80	0.881400394486
+20_4ecbplus.xml_3	forced_148_154-r-earthquake_94_104	0.787457835155
+23_6ecbplus.xml_8	walking_57_64--sliding_89_96	0.835576960675
+35_3ecbplus.xml_9	monitor_20_27-r-situation_32_41	0.86601851342
+32_4ecbplus.xml_7	remanded_23_31-r-risk_109_113	0.821405780788
+20_9ecbplus.xml_3	earthquake_16_26--evacuation_147_157	0.803430583702
+32_8ecbplus.xml_5	found_37_42--charged_80_87	0.757978186588
+37_3ecbplus.xml_1	Indonesia earthquake_0_20--injured_44_51	0.800798549197
+23_9ecbplus.xml_10	slipped_205_212--death_27_32	0.923234797599
+30_10ecbplus.xml_8	running_74_81--services_45_53	0.77286707009
+33_10ecbplus.xml_3	protect_93_100-r-harm_133_137	0.826277752086
+33_11ecbplus.xml_3	died_77_81-r-killing_48_55	0.848879564746
+7_7ecbplus.xml_32	assault_74_81--sent_82_86	0.828722118306
+7_6ecbplus.xml_5	bout_39_43--emerged_80_87	0.834437082041
+24_6ecbplus.xml_4	heist_62_67--stolen_46_52	0.763456790573
+20_2ecbplus.xml_16	earthquake_93_103--aftershocks_12_23	0.916920700603
+37_11ecbplus.xml_5	damage_35_41-r-quake_52_57	0.810789151412
+3_2ecbplus.xml_6	escaped_119_126--warned_75_81	0.822269283418
+7_6ecbplus.xml_7	unsteady_178_186-r-punch_82_87	0.815616992773
+32_9ecbplus.xml_8	charge_41_47-r-death_96_101	0.818201852709
+23_5ecbplus.xml_13	falling_94_101--death_13_18	0.851001914203
+1_7ecbplus.xml_1	Rehab_42_47-r-Ordered_34_41	0.796454000272
+24_8ecbplus.xml_3	rammed_9_15--stealing_115_123	0.790831472765
+4_1ecbplus.xml_8	made_76_80--popular_85_92	0.763365252749
+32_6ecbplus.xml_5	found_16_21--arrested_116_124	0.787118967127
+22_14ecbplus.xml_3	executed_189_197-r-feuding_54_61	0.825151246591
+33_6ecbplus.xml_3	second - degree murder_13_35--sentence_101_109	0.775440989771
+7_7ecbplus.xml_3	scoring_78_85-r-dominance_65_74	0.76538602856
+33_3ecbplus.xml_7	staggering_58_68-r-gunfire_154_161	0.854387771283
+3_6ecbplus.xml_3	armed_94_99--dangerous_104_113	0.917939019002
+14_9ecbplus.xml_4	fire_83_87-r-arson_63_68	0.850304858158
+32_2ecbplus.xml_13	doted on_20_28--obsessed_94_102	0.771331651885
+37_4ecbplus.xml_3	devastated_169_179-r-quake_187_192	0.895790603485
+33_6ecbplus.xml_9	killed_156_162--trial_45_50	0.882791568497
+35_2ecbplus.xml_1	faces_32_37-r-charges_42_49	0.80176504008
+35_2ecbplus.xml_1	charges_42_49-r-DUI_38_41	0.755744378249
+23_9ecbplus.xml_10	inexperienced_36_49--fell_224_228	0.949282631037
+37_9ecbplus.xml_3	devastated_181_191-r-quake_199_204	0.814821526622
+35_5ecbplus.xml_3	suspicions_71_81--arrested_45_53	0.87872378961
+41_2ecbplus.xml_3	conflict_166_174--sheltering_113_123	0.857071989177
+30_6ecbplus.xml_1	explained_16_25-r-downtime_7_15	0.755312059013
+18_3ecbplus.xml_3	killing_44_51-r-shooting_20_28	0.908032871821
+19_11ecbplus.xml_4	seen_170_174--looking_136_143	0.769691270172
+35_1ecbplus.xml_1	arrested_25_33-r-suspicion_41_50	0.909220568473
+12_8ecbplus.xml_1	on escort duty_117_131--capturing_134_143	0.88797570356
+37_9ecbplus.xml_3	killed_84_90-r-quake_199_204	0.937169566706
+7_3ecbplus.xml_6	gave_86_90--stopping_130_138	0.794907955522
+33_1ecbplus.xml_10	suspected_40_49-r-kill_78_82	0.777141074205
+19_3ecbplus.xml_6	clashes_184_191-r-enraged_11_18	0.887531923461
+37_2ecbplus.xml_8	6 . 4 - magnitude earthquake_16_44--jolted_45_51	0.909293662142
+33_11ecbplus.xml_4	wounded_101_108-r-intended_180_188	0.820817391576
+23_7ecbplus.xml_3	accidents_39_48-r-climbing_30_38	0.875260618506
+7_5ecbplus.xml_7	round_45_50--went down_3_12	0.821902435392
+37_8ecbplus.xml_11	Boxing Day earthquake_43_66--tsunami_71_78	0.774329304653
+8_8ecbplus.xml_3	protesting_70_80--killed_51_57	0.883199380135
+37_9ecbplus.xml_3	injured_113_120-r-quake_199_204	0.88045322224
+37_7ecbplus.xml_4	6 . 1 magnitude earthquake_11_37--hit_38_41	0.758007665053
+37_10ecbplus.xml_3	disaster_190_198-r-EARTHQUAKE_3_13	0.938854758778
+20_2ecbplus.xml_3	earthquake_114_124--aftershock_10_20	0.909507425506
+37_1ecbplus.xml_3	killing_104_111-r-quake_183_188	0.913948351791
+23_4ecbplus.xml_6	slipping_52_60--died_41_45	0.916066917174
+32_8ecbplus.xml_9	arrested_16_24-r-suspicion_28_37	0.816489088742
+3_2ecbplus.xml_5	on foot_130_137--question_160_168	0.930143863273
+23_2ecbplus.xml_19	fallen_27_33--thought_11_18	0.804096621099
+8_9ecbplus.xml_1	Riot_41_45--'Murder'_53_61	0.896522670651
+37_10ecbplus.xml_3	collapsed_75_84-r-EARTHQUAKE_3_13	0.942210405012
+35_7ecbplus.xml_8	call_56_60--return_47_53	0.803948609275
+12_1ecbplus.xml_3	patrolling_16_26--apprehending_125_137	0.927873236409
+32_11ecbplus.xml_4	found_48_53-r-dead_54_58	0.816672526466
+33_5ecbplus.xml_3	targeted_45_53-r-struck_11_17	0.75463265056
+24_4ecbplus.xml_3	thefts_111_117--investigating_18_31	0.886431850499
+20_1ecbplus.xml_4	struck_28_34-r-quake_22_27	0.800346245456
+37_2ecbplus.xml_1	strikes_24_31-r-6 . 1 - magnitude quake_0_23	0.783720682031
+12_7ecbplus.xml_1	attack_14_20--foiled_21_27	0.786204346105
+32_8ecbplus.xml_8	dead_30_34--found_24_29	0.829208395096
+8_9ecbplus.xml_3	protests_146_154--killed_89_95	0.82067769513
+37_8ecbplus.xml_5	took place_124_134-r-quake_21_26	0.792343255049
+37_2ecbplus.xml_11	rocked_38_44-r-6 . 4 - magnitude quake_14_37	0.753625751826
+18_4ecbplus.xml_4	shot_10_14--searching_101_110	0.809930848427
+35_2ecbplus.xml_4	west_26_30-r-going_20_25	0.775500149452
+32_8ecbplus.xml_1	charge_24_30-r-double - murder_8_23	0.842120814307
+37_1ecbplus.xml_22	quakes_60_66--hit_53_56	0.820021645436
+33_6ecbplus.xml_11	deliberating_18_30--verdict_49_56	0.837125304319
+37_12ecbplus.xml_6	quake_39_44--power outage_160_172	0.97910720194
+19_5ecbplus.xml_1	anger_20_25--breaks out_39_49	0.923963636831
+37_13ecbplus.xml_3	earthquake_7_17--hits_18_22	0.815248020523
+16_10ecbplus.xml_1	death_26_31-r-sentences_6_15	0.818641009664
+5_5ecbplus.xml_5	move_14_18-r-in the making_28_41	0.846129748171
+20_4ecbplus.xml_4	blackout_81_89-r-quake_104_109	0.949505045284
+33_3ecbplus.xml_3	testified_20_29-r-shot_34_38	0.860944956539
+33_3ecbplus.xml_24	shooting_38_46--confessed_49_58	0.847232750415
+30_10ecbplus.xml_9	service_51_58--restored_63_71	0.765564307007
+37_3ecbplus.xml_1	6 . 1 magnitude quake_55_76--injured_44_51	0.95263608706
+30_6ecbplus.xml_5	problems_21_29--confirmed_7_16	0.861055192656
+35_11ecbplus.xml_5	take_53_57-r-submitted_3_12	0.827677953607
+16_1ecbplus.xml_5	charged_33_40-r-murdering_46_55	0.828575948004
+37_10ecbplus.xml_3	EARTHQUAKE_3_13--trapped_53_60	0.791274479106
+8_5ecbplus.xml_5	threw_113_118--killed_52_58	0.771452250317
+20_1ecbplus.xml_11	hit_81_84--affected_103_111	0.873838032642
+32_4ecbplus.xml_5	injuries_23_31--suffered_9_17	0.865917885656
+8_3ecbplus.xml_4	barrages_22_30-r-responded_7_16	0.868978858015
+37_3ecbplus.xml_5	landslide_58_67--injured_45_52	0.902936046424
+37_3ecbplus.xml_5	landslide_58_67--killed_19_25	0.902936046424
+37_3ecbplus.xml_5	collapsing_71_81--killed_19_25	0.795368673552
+37_10ecbplus.xml_3	disaster_190_198--trapped_53_60	0.828382477196
+35_3ecbplus.xml_14	speeding westbound_65_83--stopped_53_60	0.868561698674
+30_1ecbplus.xml_5	restored_102_110-r-repaired_52_60	0.834350028779
+37_14ecbplus.xml_1	Magnitude - 6 . 1 quake_0_23--dead_43_47	0.963059864909
+35_8ecbplus.xml_1	DUI_37_40--arrested_24_32	0.873520074899
+32_2ecbplus.xml_3	found_69_74-r-dead_75_79	0.845510798626
+32_2ecbplus.xml_5	searching_11_20-r-murders_70_77	0.884313464876
+30_9ecbplus.xml_13	issued_22_28-r-problem_56_63	0.894035317749
+33_10ecbplus.xml_7	aiming_21_27-r-dispute_71_78	0.878811446509
+24_8ecbplus.xml_1	Hit_12_15-r-Heist_42_47	0.895906464508
+37_4ecbplus.xml_3	injured_101_108-r-quake_187_192	0.796159755101
+37_4ecbplus.xml_3	quake_187_192--killed_84_90	0.817094542734
+30_1ecbplus.xml_1	operations_7_17-r-restored_24_32	0.863523104562
+37_9ecbplus.xml_3	panic_163_168-r-quake_199_204	0.963589068183
+20_3ecbplus.xml_3	jolts_18_23-r-earthquake_7_17	0.928901747843
+33_6ecbplus.xml_2	verdict_38_45-r-murder_71_77	1.0
+18_6ecbplus.xml_4	found_27_32-r-murder_92_98	0.917047669081
+37_8ecbplus.xml_3	6 . 1 magnitude earthquake_11_37--hit_38_41	0.873866038083
+37_1ecbplus.xml_3	flattened_51_60-r-quake_183_188	0.893798161509
+37_1ecbplus.xml_3	devastated_165_175-r-quake_183_188	0.795595128585
+37_1ecbplus.xml_3	landslides_83_93-r-quake_183_188	0.954802986747
+37_11ecbplus.xml_1	6 . 1 - magnitude quake_0_23--strikes_24_31	0.898677875857
+23_3ecbplus.xml_2	fallen_44_50--deaths_60_66	0.9623531173
+37_1ecbplus.xml_3	earthquake_11_21--tsunami_201_208	0.94626336953
+35_9ecbplus.xml_5	refused_7_14--given_43_48	0.941836879299
+20_5ecbplus.xml_2	Jolts_17_22-r-Earthquake_6_16	0.901589506931
+16_1ecbplus.xml_2	Murdering_13_22--Charged_0_7	0.944739702415
+30_10ecbplus.xml_2	restored_104_112--services_95_103	0.910200943511
+37_1ecbplus.xml_25	aftershocks_75_86-r-quake_55_60	0.774968656244
+19_9ecbplus.xml_5	riot_45_49-r-march_18_23	0.995257536731
+33_1ecbplus.xml_12	trial_61_66--testified_44_53	0.970175141078
+41_9ecbplus.xml_3	bombed_24_30--alleges_115_122	0.981260616575
+20_8ecbplus.xml_9	quake_109_114--affected_93_101	0.965717631596
+37_13ecbplus.xml_12	earthquake_17_27--killed_62_68	0.75023330117
+18_11ecbplus.xml_1	Sacked_0_6--shoots_14_20	0.972147299309
+20_11ecbplus.xml_11	felt_47_51-r-aftershocks_30_41	0.970513258174
+23_3ecbplus.xml_1	fall_32_36--deaths_46_52	0.979654238541

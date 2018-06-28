@@ -1,0 +1,10 @@
+37_2ecbplus.xml_3	6 . 1 - magnitude earthquake_11_39--killing_91_98	1.0
+37_2ecbplus.xml_12	tsunami alerts_120_134--8 . 7 - magnitude earthquake_3_31	1.0
+19_7ecbplus.xml_1	Anger_0_5--Killing_50_57	1.0
+37_5ecbplus.xml_1	6 . 1 - magnitude quake_18_41--injured_7_14	1.0
+37_10ecbplus.xml_5	earthquake_4_14--landslides_75_85	1.0
+37_2ecbplus.xml_11	6 . 4 - magnitude quake_14_37--killing_80_87	1.0
+37_8ecbplus.xml_7	quake_4_9--shaken_26_32	1.0
+37_4ecbplus.xml_18	major earthquake_22_38--killed_67_73	1.0
+20_1ecbplus.xml_2	quake_26_31--dead_4_8	1.0
+19_6ecbplus.xml_1	lockdown_32_40--protest_51_58	1.0

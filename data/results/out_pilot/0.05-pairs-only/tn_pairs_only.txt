@@ -1,0 +1,188 @@
+19_3ecbplus.xml_8	control_20_27--vigil_84_89	0.0
+19_3ecbplus.xml_8	control_20_27--killed_122_128	0.0
+19_3ecbplus.xml_8	vigil_84_89--struggled_7_16	0.0
+19_3ecbplus.xml_8	struggled_7_16--killed_122_128	0.0
+19_1ecbplus.xml_5	showed_83_89--calm_29_33	0.0
+19_1ecbplus.xml_5	unruly_157_163--calm_29_33	0.0364191933521
+19_7ecbplus.xml_4	thrashing_75_84--hit_227_230	0.0223068984556
+19_7ecbplus.xml_4	thrashing_75_84--thrown_287_293	0.0223068984556
+19_7ecbplus.xml_4	vigil_39_44--conduct_381_388	0.0
+19_7ecbplus.xml_4	vigil_39_44--hit_227_230	0.0223068984556
+19_9ecbplus.xml_1	slain_19_24--snowballs_45_54	0.0
+19_9ecbplus.xml_1	snowballs_45_54--vigil_9_14	0.0
+19_8ecbplus.xml_4	rioted_70_76--turned_33_39	0.0
+19_8ecbplus.xml_4	turned_33_39--threw_81_86	0.0
+12_9ecbplus.xml_3	attack_238_244--under control_92_121	0.0
+12_9ecbplus.xml_3	under control_92_121--piracy_231_237	0.0349642694709
+37_10ecbplus.xml_10	two aftershocks_93_108--reach_46_51	0.0437304476874
+37_2ecbplus.xml_7	evacuate_228_236--see_3_6	0.021240410025
+37_2ecbplus.xml_7	traffic jams_249_261--injured_197_204	0.0
+37_2ecbplus.xml_7	traffic jams_249_261--see_3_6	0.0
+37_2ecbplus.xml_7	traffic jams_249_261--fell onto_48_57	0.0
+37_2ecbplus.xml_7	injured_197_204--see_3_6	0.0
+37_2ecbplus.xml_7	injured_197_204--difficult_215_224	0.0
+37_2ecbplus.xml_7	see_3_6--difficult_215_224	0.0
+37_2ecbplus.xml_7	fell onto_48_57--difficult_215_224	0.0
+19_5ecbplus.xml_2	wounded_50_57--ugly_136_140	0.00823639394608
+19_5ecbplus.xml_2	wounded_50_57--turned_129_135	0.0
+19_5ecbplus.xml_2	Memorial_0_8--pointing_93_101	0.0207540058822
+19_5ecbplus.xml_2	creating_210_218--clashed_170_177	0.0
+19_5ecbplus.xml_2	creating_210_218--tossing_190_197	0.0374229275261
+20_5ecbplus.xml_8	3 . 6_96_101--increased_119_128	0.0372459851797
+20_5ecbplus.xml_8	3 . 6_96_101--panic_133_138	0.0
+20_5ecbplus.xml_8	temblor_9_16--increased_119_128	0.0
+20_5ecbplus.xml_8	magnitudes_72_82--aftershocks_53_64	0.0
+20_5ecbplus.xml_8	magnitudes_72_82--4 . 3_105_110	0.0
+20_5ecbplus.xml_8	magnitudes_72_82--increased_119_128	0.0
+20_5ecbplus.xml_8	magnitudes_72_82--panic_133_138	0.0
+20_5ecbplus.xml_8	aftershocks_53_64--4 . 3_105_110	0.0
+20_5ecbplus.xml_8	4 . 3_105_110--increased_119_128	0.0
+20_5ecbplus.xml_8	4 . 3_105_110--panic_133_138	0.0
+20_5ecbplus.xml_8	increased_119_128--panic_133_138	0.0
+19_2ecbplus.xml_3	protests_82_90--involved_162_170	0.0332545871821
+19_2ecbplus.xml_3	riots_95_100--involved_162_170	0.0
+19_2ecbplus.xml_3	shooting_32_40--involved_162_170	0.0
+19_2ecbplus.xml_3	erupted_106_113--involved_162_170	0.0
+19_2ecbplus.xml_3	violations_231_241--involved_162_170	0.0
+19_2ecbplus.xml_3	involved_162_170--scrutiny_187_195	0.0
+19_8ecbplus.xml_1	vigil_97_102--sounds_4_10	0.0382081773353
+19_8ecbplus.xml_1	sounds_4_10--war zone'_18_27	0.0220903427475
+19_8ecbplus.xml_1	sounds_4_10--shot_130_134	0.0220903427475
+19_8ecbplus.xml_1	sounds_4_10--dead_135_139	0.0220903427475
+19_5ecbplus.xml_2	clashed_170_177--pointing_93_101	0.0201275749904
+19_5ecbplus.xml_2	tossing_190_197--pointing_93_101	0.0
+19_10ecbplus.xml_5	mourn_30_35--protest_50_57	0.0373151157922
+19_7ecbplus.xml_4	another_158_165--thrashing_75_84	0.0
+19_7ecbplus.xml_4	another_158_165--marred_45_51	0.0
+12_4ecbplus.xml_3	attack_67_73--transiting_94_104	0.0221705910142
+12_4ecbplus.xml_3	transiting_94_104--confiscating_188_200	0.0
+12_4ecbplus.xml_3	transiting_94_104--pirate_60_66	0.0
+12_4ecbplus.xml_3	capturing_132_141--pirate_60_66	0.0
+12_4ecbplus.xml_3	foiled_39_45--pirate_60_66	0.0
+19_9ecbplus.xml_2	turned_21_27--vigil_15_20	0.0
+37_13ecbplus.xml_5	magnitude 6 . 1 quake_39_60--its_112_115	0.0489493005808
+37_13ecbplus.xml_5	located_130_137--its_112_115	0.0
+37_13ecbplus.xml_5	its_112_115--struck_61_67	0.0236543886639
+19_11ecbplus.xml_4	seen_170_174--followed_45_53	0.0319184605875
+19_11ecbplus.xml_4	seen_170_174--march_58_63	0.0243494790709
+19_11ecbplus.xml_4	looking_136_143--followed_45_53	0.0319184605875
+19_11ecbplus.xml_4	looking_136_143--march_58_63	0.043906164224
+37_10ecbplus.xml_4	it_65_67--tsunami_129_136	0.0433817701665
+37_10ecbplus.xml_4	it_65_67--quake_111_116	0.0
+37_10ecbplus.xml_4	rocked_68_74--tsunami_129_136	0.0433817701665
+37_3ecbplus.xml_4	struck_10_16--depth of just six miles_42_65	0.023032778044
+37_3ecbplus.xml_4	struck_10_16--centred_74_81	0.0
+20_4ecbplus.xml_4	struck_118_124--force_142_147	0.042929214521
+20_4ecbplus.xml_4	restored_10_18--6 . 0_157_162	0.0
+20_4ecbplus.xml_4	force_142_147--blackout_81_89	0.0
+20_4ecbplus.xml_4	force_142_147--6 . 0_157_162	0.0
+20_4ecbplus.xml_4	blackout_81_89--6 . 0_157_162	0.0
+12_1ecbplus.xml_7	nabbed_190_196--escape_29_35	0.00433069498687
+12_1ecbplus.xml_7	executed_148_156--escape_29_35	0.0
+12_1ecbplus.xml_7	escape_29_35--intercepted_63_74	0.0388305369372
+12_1ecbplus.xml_7	escape_29_35--action_181_187	0.0446999165939
+37_7ecbplus.xml_11	see_3_6--damaged_24_31	0.0344995381698
+37_14ecbplus.xml_11	traffic jams_72_84--injured_18_25	0.0
+37_4ecbplus.xml_3	panic_151_156--devastated_169_179	0.0
+37_4ecbplus.xml_3	panic_151_156--which_31_36	0.0
+37_4ecbplus.xml_3	tsunami_205_212--which_31_36	0.0
+37_4ecbplus.xml_3	devastated_169_179--destroyed_120_129	0.0
+37_4ecbplus.xml_3	devastated_169_179--which_31_36	0.0
+37_4ecbplus.xml_3	destroyed_120_129--which_31_36	0.0
+37_4ecbplus.xml_3	injured_101_108--which_31_36	0.0
+37_4ecbplus.xml_3	quake_187_192--which_31_36	0.0
+37_4ecbplus.xml_3	killed_84_90--which_31_36	0.0
+37_4ecbplus.xml_3	hit_37_40--which_31_36	0.0
+12_6ecbplus.xml_3	under control_92_121--piracy_231_237	0.0
+12_6ecbplus.xml_3	under control_92_121--attack_238_244	0.0
+12_6ecbplus.xml_3	thwarting_203_212--piracy_231_237	0.0
+12_6ecbplus.xml_3	thwarting_203_212--attack_238_244	0.0288129527636
+20_10ecbplus.xml_3	evacuation_158_168--it_8_10	0.037657143023
+20_10ecbplus.xml_3	earthquake_111_121--it_8_10	0.0
+20_10ecbplus.xml_3	resulting_141_150--it_8_10	0.0
+20_10ecbplus.xml_3	it_8_10--experienced_52_63	0.0
+20_10ecbplus.xml_3	it_8_10--"tremor"_73_81	0.0
+20_10ecbplus.xml_3	experienced_52_63--"tremor"_73_81	0.0
+20_9ecbplus.xml_3	felt_111_115--prompting_133_142	0.0
+37_13ecbplus.xml_8	injured_18_25--traffic jams_70_82	0.0
+12_8ecbplus.xml_1	on escort duty_117_131--attack_21_27	0.0
+12_8ecbplus.xml_1	foiled_80_86--transiting_48_58	0.0
+12_8ecbplus.xml_1	confiscating_190_202--transiting_48_58	0.0
+12_8ecbplus.xml_1	confiscating_190_202--attack_21_27	0.0
+12_8ecbplus.xml_1	transiting_48_58--capturing_134_143	0.0
+19_11ecbplus.xml_3	intervened_7_17--shot_175_179	0.0238105306026
+20_1ecbplus.xml_15	been_75_79--4 . 0_116_121	0.0
+20_1ecbplus.xml_15	been_75_79--tremor_12_18	0.0045948201007
+20_1ecbplus.xml_15	4 . 0_116_121--lasted_19_25	0.0244014128632
+20_1ecbplus.xml_15	lasted_19_25--aftershocks_94_105	0.0244014128632
+37_3ecbplus.xml_3	dead_127_131--injured_145_152	0.0
+37_2ecbplus.xml_4	hit_50_53--depth of 10 kilometers ( 6 miles_59_91	0.0206280594065
+37_9ecbplus.xml_4	depth of just 10km_26_44--hit_10_13	0.0
+37_14ecbplus.xml_12	screamed for help_70_87--ran_31_34	0.0270143255123
+12_1ecbplus.xml_3	confiscating_160_172--attack_80_86	0.0
+12_1ecbplus.xml_3	apprehending_125_137--attack_80_86	0.0
+12_1ecbplus.xml_3	attack_80_86--thwarted_56_64	0.0
+37_10ecbplus.xml_25	struck_46_52--Indian Ocean - wide_98_117	0.0433817701665
+37_10ecbplus.xml_3	collapsed_75_84--Koran reading session_94_115	0.0440682255231
+37_10ecbplus.xml_3	collapsed_75_84--bringing_147_155	0.0440682255231
+37_10ecbplus.xml_3	disaster_190_198--Koran reading session_94_115	0.0440682255231
+37_10ecbplus.xml_3	disaster_190_198--confirmed_160_169	0.0
+37_10ecbplus.xml_3	Koran reading session_94_115--bringing_147_155	0.0
+37_10ecbplus.xml_3	Koran reading session_94_115--EARTHQUAKE_3_13	0.0
+20_4ecbplus.xml_6	damaged_88_95--felt_176_180	0.0438110251438
+20_4ecbplus.xml_6	destroyed_75_84--felt_176_180	0.0
+20_4ecbplus.xml_3	forced_148_154--killed_127_133	0.0
+20_4ecbplus.xml_3	handed out_23_33--killed_127_133	0.0
+37_3ecbplus.xml_14	hit_196_199--see_3_6	0.0
+37_3ecbplus.xml_14	fell onto_48_57--see_3_6	0.0
+37_3ecbplus.xml_14	quake_190_195--see_3_6	0.0
+37_3ecbplus.xml_14	see_3_6--damaged_24_31	0.0
+37_3ecbplus.xml_15	difficult_38_47--injured_18_25	0.0
+37_3ecbplus.xml_15	injured_18_25--traffic jams_72_84	0.0
+19_2ecbplus.xml_4	claim_41_46--killed_9_15	0.0
+19_5ecbplus.xml_5	bashed_221_227--smashed_176_183	0.0
+19_5ecbplus.xml_5	bashed_221_227--hurled_142_148	0.0
+19_5ecbplus.xml_5	smashed_176_183--hurled_142_148	0.0
+20_3ecbplus.xml_4	flattening_112_122--measuring_14_23	0.0265662630069
+20_3ecbplus.xml_4	measuring_14_23--killing_142_149	0.0
+20_3ecbplus.xml_4	measuring_14_23--shook_51_56	0.0265662630069
+37_14ecbplus.xml_5	magnitude - 6 . 1 quake_4_27--located_104_111	0.0
+37_14ecbplus.xml_5	located_104_111--depth of just 10 kilometers ( six miles )_40_81	0.026504677874
+37_14ecbplus.xml_5	located_104_111--struck_28_34	0.0
+20_2ecbplus.xml_3	death_89_94--rose_138_142	0.0
+20_2ecbplus.xml_3	rose_138_142--shook_21_26	0.0244014128632
+37_9ecbplus.xml_3	6 . 1 - magnitude earthquake_2_30--which_31_36	0.0
+37_9ecbplus.xml_3	killed_84_90--destroyed_132_141	0.0
+37_9ecbplus.xml_3	killed_84_90--injured_113_120	0.0
+37_9ecbplus.xml_3	killed_84_90--which_31_36	0.0
+37_9ecbplus.xml_3	killed_84_90--panic_163_168	0.0
+37_9ecbplus.xml_3	killed_84_90--devastated_181_191	0.0
+37_9ecbplus.xml_3	tsunami_217_224--which_31_36	0.0
+19_11ecbplus.xml_13	dead_66_70--arrival_74_81	0.0
+37_4ecbplus.xml_4	depth of just 10 kilometres ( 6 . 2 miles_41_82--struck_10_16	0.0
+37_3ecbplus.xml_1	dead_26_30--injured_44_51	0.0
+37_2ecbplus.xml_8	material damage_101_116--casualties_87_97	0.0219631324979
+37_10ecbplus.xml_3	Koran reading session_94_115--killed_14_20	0.0440724225362
+37_10ecbplus.xml_3	Koran reading session_94_115--trapped_53_60	0.0440724225362
+37_10ecbplus.xml_3	Koran reading session_94_115--death toll_170_180	0.0
+37_10ecbplus.xml_3	Koran reading session_94_115--confirmed_160_169	0.0440724225362
+37_10ecbplus.xml_3	bringing_147_155--killed_14_20	0.0
+37_10ecbplus.xml_3	bringing_147_155--trapped_53_60	0.0
+37_10ecbplus.xml_3	trapped_53_60--death toll_170_180	0.0
+37_10ecbplus.xml_3	trapped_53_60--confirmed_160_169	0.0
+12_7ecbplus.xml_3	attack_111_117--intercepted_30_41	0.0338121889851
+20_2ecbplus.xml_4	death_8_13--came_19_23	0.0245172632143
+20_2ecbplus.xml_4	hit_129_132--found_66_71	0.0
+20_2ecbplus.xml_4	hit_129_132--came_19_23	0.0
+20_2ecbplus.xml_4	found_66_71--came_19_23	0.0
+20_2ecbplus.xml_22	stopped_91_98--service_117_124	0.0
+20_2ecbplus.xml_22	service_117_124--providing_99_108	0.0
+20_2ecbplus.xml_22	service_117_124--damaged_16_23	0.0245172632143
+20_2ecbplus.xml_22	providing_99_108--damaged_16_23	0.0
+37_5ecbplus.xml_4	hit_10_13--depth of just 10 kilometres_38_65	0.011927266908
+37_5ecbplus.xml_4	quake_4_9--depth of just 10 kilometres_38_65	0.0
+37_1ecbplus.xml_24	Indian Ocean - wide_98_117--struck_46_52	0.0
+37_1ecbplus.xml_24	Indian Ocean - wide_98_117--tsunami alert_118_131	0.0
+37_4ecbplus.xml_1	dead_23_27--injured_7_14	0.0
+37_3ecbplus.xml_5	injured_45_52--killed_19_25	0.023032778044
+37_10ecbplus.xml_5	landslides_75_85--reduced_15_22	0.042969003022

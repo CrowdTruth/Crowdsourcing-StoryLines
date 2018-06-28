@@ -1,0 +1,12 @@
+32_10ecbplus.xml_6	charged_25_32--appear_49_55	1.0
+20_8ecbplus.xml_3	earthquake_11_21--killing_100_107	1.0
+37_12ecbplus.xml_3	killing_123_130-r-magnitude - 6 . 1 earthquake_2_30	1.0
+19_7ecbplus.xml_1	Anger_0_5-r-Killing_50_57	1.0
+37_12ecbplus.xml_6	power outage_160_172-r-quake_141_146	1.0
+3_5ecbplus.xml_7	assault_57_64--serving_12_19	1.0
+23_4ecbplus.xml_2	fall_30_34--deaths_44_50	1.0
+33_11ecbplus.xml_1	Shooting_17_25--Arrested_5_13	1.0
+37_13ecbplus.xml_12	tsunami_49_56--killed_62_68	1.0
+22_11ecbplus.xml_2	Shooting_49_57--Kills_30_35	1.0
+20_11ecbplus.xml_1	Earthquake_0_10--Levels_11_17	1.0
+19_10ecbplus.xml_1	Riot_7_13-r-Shooting_32_40	1.0

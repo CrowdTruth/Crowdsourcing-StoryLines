@@ -1,0 +1,51 @@
+20_10ecbplus.xml_3	evacuation_158_168-r-earthquake_111_121	0.819767184415
+37_11ecbplus.xml_5	damage_35_41-r-quake_52_57	0.806937684461
+37_14ecbplus.xml_12	screamed for help_70_87-r-in panic_57_65	0.754576690021
+37_11ecbplus.xml_2	struck_40_46-r-6 . 1 - magnitude earthquake_11_39	0.80809446845
+37_14ecbplus.xml_10	damaged_24_31--fell onto_48_57	0.756158623594
+37_10ecbplus.xml_3	collapsed_75_84-r-EARTHQUAKE_3_13	0.919068860252
+37_12ecbplus.xml_8	traffic jams_70_82--difficult_36_45	0.792169809299
+37_8ecbplus.xml_8	fell onto_48_57-r-damaged_24_31	0.757047247138
+19_2ecbplus.xml_4	opened fire_128_139--killed_9_15	0.804765827433
+37_1ecbplus.xml_5	It_0_2--landslides_121_131	0.788368046485
+37_14ecbplus.xml_5	magnitude - 6 . 1 quake_4_27--struck_28_34	0.805776244776
+20_2ecbplus.xml_3	shook_21_26-r-aftershock_10_20	0.765689528486
+20_8ecbplus.xml_11	destroyed_110_119--cut_155_158	0.753080892387
+20_2ecbplus.xml_16	earthquake_93_103--aftershocks_12_23	0.854173589887
+37_11ecbplus.xml_4	6 . 1 - magnitude earthquake_9_37--in panic_175_183	0.811067013366
+37_12ecbplus.xml_6	quake_39_44--power outage_160_172	0.896654355717
+37_6ecbplus.xml_12	quake_23_28--felt_33_37	0.800601407984
+20_2ecbplus.xml_2	jolt_12_16-r-Aftershocks_0_11	0.822159004535
+37_13ecbplus.xml_4	earthquake_9_19--injuring_90_98	0.847309997497
+20_5ecbplus.xml_2	Jolts_17_22-r-Earthquake_6_16	0.775020946798
+19_6ecbplus.xml_4	intervened_7_17-r-vigil_77_82	0.751474641509
+37_4ecbplus.xml_4	quake_4_9--struck_10_16	0.804434823367
+37_3ecbplus.xml_1	Indonesia earthquake_0_20--dead_26_30	0.834192265782
+37_3ecbplus.xml_1	Indonesia earthquake_0_20--injured_44_51	0.853217894108
+37_3ecbplus.xml_1	6 . 1 magnitude quake_55_76--injured_44_51	0.84870785462
+37_2ecbplus.xml_8	6 . 4 - magnitude earthquake_16_44--jolted_45_51	0.927461034261
+37_10ecbplus.xml_3	EARTHQUAKE_3_13--trapped_53_60	0.914559441772
+37_10ecbplus.xml_3	EARTHQUAKE_3_13--death toll_170_180	0.76701036093
+12_7ecbplus.xml_3	foiled_101_107-r-intercepted_30_41	0.818690778625
+20_3ecbplus.xml_3	jolts_18_23-r-earthquake_7_17	0.963901009873
+37_5ecbplus.xml_8	shook_92_97-r-quake_86_91	0.877863778664
+37_11ecbplus.xml_6	shook_87_92--in panic_28_36	0.834242587493
+37_11ecbplus.xml_6	shook_87_92-r-quake_81_86	0.866012125875
+37_12ecbplus.xml_3	magnitude - 6 . 1 earthquake_2_30--struck_31_37	0.782179757597
+37_5ecbplus.xml_4	hit_10_13-r-quake_4_9	0.827261897598
+37_14ecbplus.xml_1	Magnitude - 6 . 1 quake_0_23--dead_43_47	0.950902412415
+37_4ecbplus.xml_1	hits_60_64--dead_23_27	0.782777192795
+37_7ecbplus.xml_4	6 . 1 magnitude earthquake_11_37--hit_38_41	0.870166528971
+37_6ecbplus.xml_5	under debris_56_68-r-collapsed_83_92	0.767574176102
+20_9ecbplus.xml_1	hits_26_30-r-earthquake_8_18	0.791139063044
+20_1ecbplus.xml_4	struck_28_34-r-quake_22_27	0.90033257407
+37_8ecbplus.xml_3	6 . 1 magnitude earthquake_11_37--hit_38_41	0.88346707137
+37_3ecbplus.xml_5	landslide_58_67--injured_45_52	0.912490158805
+37_3ecbplus.xml_5	landslide_58_67--killed_19_25	0.912490158805
+37_3ecbplus.xml_5	collapsing_71_81--injured_45_52	0.868521329837
+37_3ecbplus.xml_5	collapsing_71_81--killed_19_25	0.868521329837
+20_8ecbplus.xml_9	quake_109_114--affected_93_101	0.918026281016
+20_6ecbplus.xml_4	quake_22_27--struck_28_34	0.91980747984
+20_11ecbplus.xml_11	felt_47_51-r-aftershocks_30_41	0.932174887106
+37_2ecbplus.xml_11	rocked_38_44-r-6 . 4 - magnitude quake_14_37	0.938212333634
+37_13ecbplus.xml_3	earthquake_7_17--hits_18_22	0.990289602875

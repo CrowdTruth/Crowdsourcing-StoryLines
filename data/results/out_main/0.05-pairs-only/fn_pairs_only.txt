@@ -1,0 +1,20 @@
+1_8ecbplus.xml_4	re - hired_12_22--case_68_72	0.047312393922
+16_10ecbplus.xml_4	weighed_52_59--life_274_278	0.0320731472676
+1_12ecbplus.xml_4	court hearing_60_73--ensconced_126_135	0.0240908291408
+5_2ecbplus.xml_9	job_108_111--belief_48_54	0.0
+1_18ecbplus.xml_5	headed_46_52--smoking_134_141	0.0
+1_4ecbplus.xml_7	spent_71_76--jumped_154_160	0.0
+1_4ecbplus.xml_7	spent_71_76--spooked_109_116	0.0
+1_10ecbplus.xml_4	violation_89_98--case_124_128	0.0444903576481
+1_4ecbplus.xml_3	trust_36_41--lie_109_112	0.0
+19_7ecbplus.xml_4	another_158_165--conduct_381_388	0.0
+1_12ecbplus.xml_3	chickening out_183_197--fooled_26_32	0.0
+16_4ecbplus.xml_4	shooting_52_60--knocked_90_97	0.0270272339823
+22_12ecbplus.xml_3	suspended_40_49--escorted_85_93	0.0392612837091
+18_5ecbplus.xml_3	shot_52_56--chase_190_195	0.0
+16_8ecbplus.xml_3	knocked_96_103--killed_74_80	0.0235348826665
+16_8ecbplus.xml_3	working_37_44--killed_74_80	0.0
+14_5ecbplus.xml_3	fire_84_88--done_162_166	0.0
+33_6ecbplus.xml_7	wounded_97_104--shield_27_33	0.0
+19_2ecbplus.xml_3	riots_95_100--scrutiny_187_195	0.0
+13_7ecbplus.xml_7	fire_50_54--extinguished_68_80	0.0242197417484

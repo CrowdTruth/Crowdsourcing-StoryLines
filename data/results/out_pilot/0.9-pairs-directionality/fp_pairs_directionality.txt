@@ -1,0 +1,13 @@
+37_10ecbplus.xml_3	collapsed_75_84-r-EARTHQUAKE_3_13	0.919068860252
+37_2ecbplus.xml_8	6 . 4 - magnitude earthquake_16_44--jolted_45_51	0.927461034261
+37_10ecbplus.xml_3	EARTHQUAKE_3_13--trapped_53_60	0.914559441772
+20_3ecbplus.xml_3	jolts_18_23-r-earthquake_7_17	0.963901009873
+37_14ecbplus.xml_1	Magnitude - 6 . 1 quake_0_23--dead_43_47	0.950902412415
+20_1ecbplus.xml_4	struck_28_34-r-quake_22_27	0.90033257407
+37_3ecbplus.xml_5	landslide_58_67--injured_45_52	0.912490158805
+37_3ecbplus.xml_5	landslide_58_67--killed_19_25	0.912490158805
+20_8ecbplus.xml_9	quake_109_114--affected_93_101	0.918026281016
+20_6ecbplus.xml_4	quake_22_27--struck_28_34	0.91980747984
+20_11ecbplus.xml_11	felt_47_51-r-aftershocks_30_41	0.932174887106
+37_2ecbplus.xml_11	rocked_38_44-r-6 . 4 - magnitude quake_14_37	0.938212333634
+37_13ecbplus.xml_3	earthquake_7_17--hits_18_22	0.990289602875

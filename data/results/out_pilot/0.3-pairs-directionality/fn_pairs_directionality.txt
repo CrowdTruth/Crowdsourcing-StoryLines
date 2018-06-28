@@ -1,0 +1,72 @@
+19_3ecbplus.xml_8	hostile_30_37--control_20_27	0.0900719381949
+19_3ecbplus.xml_8	hostile_30_37-r-killed_122_128	0.271259237739
+19_3ecbplus.xml_8	control_20_27-r-broke away_49_59	0.0975742186778
+19_1ecbplus.xml_5	unruly_157_163-r-autopsy_75_82	0.198516009783
+19_1ecbplus.xml_5	unruly_157_163-r-shot_102_106	0.194856352552
+19_7ecbplus.xml_4	thrashing_75_84--marred_45_51	0.279459530758
+19_9ecbplus.xml_1	killed_30_36-r-riot_71_75	0.0318119372573
+12_4ecbplus.xml_10	action_19_25-r-mission_114_121	0.295647068688
+19_8ecbplus.xml_4	chaotic_40_47-r-threw_81_86	0.0
+19_3ecbplus.xml_3	broke away_49_59--control_20_27	0.0547379125036
+19_3ecbplus.xml_3	furious_30_37--control_20_27	0.0
+19_5ecbplus.xml_6	march_97_102-r-violence_14_22	0.0
+19_5ecbplus.xml_6	march_97_102-r-killed_172_178	0.297435841937
+19_5ecbplus.xml_2	wounded_50_57-r-pointing_93_101	0.262096822061
+20_5ecbplus.xml_8	aftershocks_53_64--panic_133_138	0.279335381496
+12_8ecbplus.xml_8	mission_114_121--operation_66_75	0.265897849715
+12_8ecbplus.xml_8	action_19_25-r-operation_66_75	0.294182064707
+19_2ecbplus.xml_3	protests_82_90-r-scrutiny_187_195	0.118549924101
+19_2ecbplus.xml_3	riots_95_100-r-scrutiny_187_195	0.118549924101
+19_2ecbplus.xml_3	violations_231_241--scrutiny_187_195	0.215673178374
+19_8ecbplus.xml_1	war zone'_18_27-r-Chaos_30_35	0.226739634368
+19_8ecbplus.xml_1	war zone'_18_27-r-shot_130_134	0.0978815452266
+19_8ecbplus.xml_1	war zone'_18_27-r-dead_135_139	0.0978815452266
+19_8ecbplus.xml_1	Chaos_30_35-r-shot_130_134	0.0978815452266
+19_8ecbplus.xml_1	Chaos_30_35-r-dead_135_139	0.0978815452266
+19_8ecbplus.xml_1	riot'_65_71-r-shot_130_134	0.285475614303
+12_7ecbplus.xml_4	detected_12_20-r-escorting_108_117	0.0539492265728
+19_5ecbplus.xml_2	clashed_170_177--ugly_136_140	0.0698686340744
+19_5ecbplus.xml_2	melee_221_226-r-tossing_190_197	0.273592705427
+19_5ecbplus.xml_2	tossing_190_197--ugly_136_140	0.0
+19_11ecbplus.xml_1	Riot_6_10-r-Vigil_41_46	0.253058495361
+19_10ecbplus.xml_5	gathered_18_26--mourn_30_35	0.0564160109284
+19_10ecbplus.xml_5	death—and_40_49--mourn_30_35	0.236383302068
+12_10ecbplus.xml_3	attempt_32_39--foiled_16_22	0.290596071624
+19_7ecbplus.xml_4	anger_14_19--another_158_165	0.275826882435
+19_7ecbplus.xml_4	anger_14_19--marred_45_51	0.192182825699
+19_7ecbplus.xml_4	anger_14_19--conduct_381_388	0.166442605044
+19_7ecbplus.xml_4	another_158_165--conduct_381_388	0.100743045074
+19_7ecbplus.xml_4	another_158_165--hit_227_230	0.100743045074
+19_7ecbplus.xml_4	another_158_165--thrown_287_293	0.100743045074
+19_5ecbplus.xml_1	Riot_34_38-r-shot_110_114	0.244413022827
+19_3ecbplus.xml_6	shooting_34_42--pitching_135_143	0.288145602304
+20_4ecbplus.xml_4	blackout_81_89--quake_104_109	0.0
+12_5ecbplus.xml_3	rescued_204_211--attack_170_176	0.0
+37_1ecbplus.xml_3	tsunami_201_208--devastated_165_175	0.233274043216
+19_2ecbplus.xml_2	Killed_45_51--Riots_0_5	0.276482836497
+20_10ecbplus.xml_3	evacuation_158_168-r-"tremor"_73_81	0.259612299451
+12_3ecbplus.xml_3	confiscating_154_166--thwarted_50_58	0.181548357147
+12_3ecbplus.xml_3	thwarted_50_58-r-apprehending_119_131	0.176187002587
+12_8ecbplus.xml_1	transiting_48_58--attack_21_27	0.237453546138
+19_11ecbplus.xml_3	intervened_7_17-r-joined in_50_59	0.0432978336465
+37_8ecbplus.xml_11	hit_9_12-r-tsunami_71_78	0.282578744029
+37_7ecbplus.xml_14	tsunami_69_76--hit_9_12	0.227562984834
+19_3ecbplus.xml_2	arrested_74_82-r-angry_27_32	0.0572776414738
+12_1ecbplus.xml_3	confiscating_160_172-r-thwarted_56_64	0.204175703648
+12_1ecbplus.xml_3	apprehending_125_137-r-thwarted_56_64	0.289853011607
+12_8ecbplus.xml_2	approaching_224_235-r-escorting_30_39	0.0954512449637
+20_4ecbplus.xml_3	handed out_23_33-r-earthquake_94_104	0.108874658983
+19_2ecbplus.xml_4	opened fire_128_139-r-killed_9_15	0.0
+19_4ecbplus.xml_1	shot_50_54-r-have_71_75	0.136530843248
+19_4ecbplus.xml_1	riot_9_13-r-have_71_75	0.0
+20_2ecbplus.xml_3	rose_138_142-r-aftershock_10_20	0.0910191840393
+19_6ecbplus.xml_15	approached_125_135--pointing_77_85	0.0868409751815
+19_6ecbplus.xml_4	intervened_7_17-r-joined_45_51	0.17150055075
+19_6ecbplus.xml_4	shot_180_184--joined_45_51	0.152298073614
+19_6ecbplus.xml_4	vigil_77_82--joined_45_51	0.0717210931533
+37_3ecbplus.xml_1	6 . 1 magnitude quake_55_76-r-injured_44_51	0.0
+12_7ecbplus.xml_3	foiled_101_107--intercepted_30_41	0.0
+20_2ecbplus.xml_22	tremor_4_10--service_117_124	0.0
+20_2ecbplus.xml_22	tremor_4_10--providing_99_108	0.0
+19_8ecbplus.xml_2	shot_31_35--pointed_103_110	0.0395651809242
+19_8ecbplus.xml_2	killed_40_46--pointed_103_110	0.0228749044952

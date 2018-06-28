@@ -1,0 +1,4 @@
+19_11ecbplus.xml_3	intervened_7_17--joined in_50_59	0.0432978336465
+19_4ecbplus.xml_1	riot_9_13--have_71_75	0.0
+20_2ecbplus.xml_22	tremor_4_10--service_117_124	0.0
+20_2ecbplus.xml_22	tremor_4_10--providing_99_108	0.0245172632143

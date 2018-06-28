@@ -1,0 +1,16 @@
+19_9ecbplus.xml_1	killed_30_36-r-riot_71_75	0.0318119372573
+19_8ecbplus.xml_4	chaotic_40_47-r-threw_81_86	0.0
+19_3ecbplus.xml_3	furious_30_37--control_20_27	0.0
+19_5ecbplus.xml_6	march_97_102-r-violence_14_22	0.0
+19_5ecbplus.xml_2	tossing_190_197--ugly_136_140	0.0
+20_4ecbplus.xml_4	blackout_81_89--quake_104_109	0.0
+12_5ecbplus.xml_3	rescued_204_211--attack_170_176	0.0
+19_11ecbplus.xml_3	intervened_7_17-r-joined in_50_59	0.0432978336465
+19_2ecbplus.xml_4	opened fire_128_139-r-killed_9_15	0.0
+19_4ecbplus.xml_1	riot_9_13-r-have_71_75	0.0
+37_3ecbplus.xml_1	6 . 1 magnitude quake_55_76-r-injured_44_51	0.0
+12_7ecbplus.xml_3	foiled_101_107--intercepted_30_41	0.0
+20_2ecbplus.xml_22	tremor_4_10--service_117_124	0.0
+20_2ecbplus.xml_22	tremor_4_10--providing_99_108	0.0
+19_8ecbplus.xml_2	shot_31_35--pointed_103_110	0.0395651809242
+19_8ecbplus.xml_2	killed_40_46--pointed_103_110	0.0228749044952

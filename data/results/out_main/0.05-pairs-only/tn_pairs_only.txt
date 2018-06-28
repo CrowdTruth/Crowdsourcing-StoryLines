@@ -1,0 +1,379 @@
+8_6ecbplus.xml_16	spread_94_100--tried_195_200	0.0221745330126
+1_8ecbplus.xml_4	attorney_32_40--case_68_72	0.0356238674781
+8_6ecbplus.xml_4	referring_182_191--participation_280_293	0.0460536997088
+1_21ecbplus.xml_4	ensconced_14_23--argued_75_81	0.0384573534327
+23_7ecbplus.xml_9	reach_89_94--spend_42_47	0.0400903582879
+23_7ecbplus.xml_9	fall_26_30--spend_42_47	0.0
+18_4ecbplus.xml_10	believed_170_178--houses_40_46	0.0267396449809
+3_2ecbplus.xml_3	confined_46_54--overpowered_71_82	0.0307559166968
+3_2ecbplus.xml_3	confined_46_54--walked_151_157	0.0336411292556
+1_8ecbplus.xml_1	rehires_14_21--rehab_62_67	0.0
+16_2ecbplus.xml_7	murder_159_165--murder_244_250	0.0
+24_11ecbplus.xml_7	hit_46_49--spate_65_70	0.0
+7_3ecbplus.xml_15	landing_54_61--third_96_101	0.0
+3_8ecbplus.xml_3	prohibited_45_55--shackled_286_294	0.0
+8_1ecbplus.xml_3	designed_161_169--killed_38_44	0.0
+16_4ecbplus.xml_2	identified_135_145--operation_79_88	0.0
+1_8ecbplus.xml_6	violation_96_105--face_79_83	0.0
+8_6ecbplus.xml_13	strike_148_154--break_136_141	0.0
+16_2ecbplus.xml_7	found_8_13--attempted_259_268	0.0418360478612
+13_7ecbplus.xml_8	asked_136_141--assisting_37_46	0.0
+1_5ecbplus.xml_3	perform_142_149--receive_229_236	0.0
+8_8ecbplus.xml_7	working_66_73--tossed_205_211	0.0247820381435
+8_8ecbplus.xml_7	working_66_73--broke_132_137	0.0
+37_12ecbplus.xml_4	quake_21_26--six miles beneath_46_63	0.033370433012
+37_12ecbplus.xml_4	quake_21_26--which_29_34	0.0
+41_1ecbplus.xml_9	wedged_138_144--north_206_211	0.0405018669879
+41_1ecbplus.xml_9	wedged_138_144--flying_199_205	0.0
+16_2ecbplus.xml_7	commit_233_239--found_8_13	0.0
+16_2ecbplus.xml_7	attempted_259_268--wait_177_181	0.0479149631877
+20_2ecbplus.xml_4	hit_129_132--found_66_71	0.0473758615224
+30_13ecbplus.xml_7	repair_205_211--associated_113_123	0.0298223796167
+16_2ecbplus.xml_7	used_215_219--murder_44_50	0.0399611777092
+16_2ecbplus.xml_7	used_215_219--wait_177_181	0.0424730678739
+1_5ecbplus.xml_5	ensconced_15_24--argued_76_82	0.0
+8_9ecbplus.xml_8	took to the streets_97_116--saving_157_163	0.0
+5_2ecbplus.xml_9	playoffs_157_165--fit_79_82	0.0
+18_10ecbplus.xml_4	concluded_27_36--wounded_150_157	0.0355655336811
+16_2ecbplus.xml_7	performing_98_108--commit_233_239	0.0489656097512
+18_5ecbplus.xml_3	worked_145_151--chase_190_195	0.0375865444073
+18_5ecbplus.xml_3	worked_145_151--wounded_80_87	0.0
+12_2ecbplus.xml_4	escorting_91_100--happened_51_59	0.0
+16_2ecbplus.xml_7	killed_85_91--avoid_132_137	0.0438883032418
+30_5ecbplus.xml_12	operates_62_70--owns_53_57	0.0469467387542
+30_5ecbplus.xml_12	connecting_103_113--owns_53_57	0.0469467387542
+18_3ecbplus.xml_1	Injured_57_64--Follow - Up_32_43	0.0351281750114
+16_2ecbplus.xml_7	duties_113_119--wait_177_181	0.0
+1_18ecbplus.xml_5	allow_128_133--hopped_4_10	0.0
+1_18ecbplus.xml_5	hopped_4_10--smoking_134_141	0.0
+35_11ecbplus.xml_9	monitor_77_84--course_133_139	0.0
+16_2ecbplus.xml_7	lying_168_173--used_215_219	0.0
+16_10ecbplus.xml_45	await_200_205--sentence_15_23	0.0
+16_10ecbplus.xml_45	transferred_112_123--death_9_14	0.0167588933614
+16_6ecbplus.xml_5	in connection_133_146--shot_45_49	0.0
+1_5ecbplus.xml_3	checked into_53_65--treatment_187_196	0.0477927226826
+1_5ecbplus.xml_3	required_205_213--receive_229_236	0.0477927226826
+1_18ecbplus.xml_6	arrangements_49_61--approved_125_133	0.00864461208677
+1_18ecbplus.xml_6	check into_75_85--approved_125_133	0.0
+1_18ecbplus.xml_6	made_40_44--approved_125_133	0.0
+8_1ecbplus.xml_4	spread_186_192--tried_117_122	0.0
+37_2ecbplus.xml_7	traffic jams_249_261--see_3_6	0.0
+37_2ecbplus.xml_7	traffic jams_249_261--fell onto_48_57	0.0
+37_2ecbplus.xml_7	injured_197_204--see_3_6	0.0
+16_2ecbplus.xml_7	murder_244_250--wait_177_181	0.0488466197588
+16_5ecbplus.xml_4	spoke_149_154--in search_66_75	0.043262460193
+35_11ecbplus.xml_9	its_129_132--run_125_128	0.0418884455736
+35_11ecbplus.xml_9	its_129_132--course_133_139	0.0
+19_4ecbplus.xml_17	Q&A_34_37--conducted_38_47	0.0
+30_12ecbplus.xml_5	up to 83%_113_122--brought_55_62	0.0
+1_12ecbplus.xml_1	check into_41_51--pretending_27_37	0.0262857557281
+1_3ecbplus.xml_4	treatment_148_157--decided_166_173	0.0
+8_11ecbplus.xml_3	violent_130_137--comes_3_8	0.0
+30_12ecbplus.xml_7	help_54_58--uses_13_17	0.0429935411413
+16_9ecbplus.xml_4	trial_70_75--showed_17_23	0.0342015656328
+1_4ecbplus.xml_7	showed up_29_38--spooked_109_116	0.0
+37_10ecbplus.xml_10	two aftershocks_93_108--reach_46_51	0.0253566213518
+1_10ecbplus.xml_3	facing_75_81--driving_246_253	0.0
+1_10ecbplus.xml_3	facing_75_81--stay_225_229	0.0
+8_6ecbplus.xml_16	spread_94_100--visit_204_209	0.0
+8_6ecbplus.xml_16	tried_195_200--death_17_22	0.0048830339227
+8_2ecbplus.xml_3	battles_105_112--designed_168_176	0.0454859888221
+16_10ecbplus.xml_45	ordered_98_105--death_9_14	0.0
+16_2ecbplus.xml_7	murder_244_250--murder_269_275	0.0
+16_2ecbplus.xml_7	murder_244_250--found_8_13	0.0
+24_1ecbplus.xml_3	spate_77_82--hit_58_61	0.0
+24_1ecbplus.xml_3	robberies_101_110--heist_4_9	0.0
+37_12ecbplus.xml_4	originated_35_45--which_29_34	0.0270862755924
+37_12ecbplus.xml_4	six miles beneath_46_63--which_29_34	0.0
+30_10ecbplus.xml_5	outage_166_172--Seacom capacity_120_135	0.0346177503326
+30_10ecbplus.xml_5	outage_166_172--using_114_119	0.0
+30_10ecbplus.xml_5	Seacom capacity_120_135--using_114_119	0.0
+18_10ecbplus.xml_3	purpose_164_171--arraignment_254_265	0.0
+18_10ecbplus.xml_3	purpose_164_171--job_39_42	0.0
+4_11ecbplus.xml_5	made_146_150--freestyle_66_75	0.0351288489045
+4_11ecbplus.xml_5	World War II_319_331--dream_113_118	0.0
+4_11ecbplus.xml_5	World War II_319_331--held_33_37	0.0
+30_13ecbplus.xml_7	repair_4_10--sub - sea repairs_129_146	0.0
+16_2ecbplus.xml_7	circumstances_27_40--used_215_219	0.0
+3_6ecbplus.xml_3	searching_44_53--considered_83_93	0.0312509686466
+3_6ecbplus.xml_3	armed_94_99--considered_83_93	0.0
+1_10ecbplus.xml_4	drunk_110_115--driving_116_123	0.0444903576481
+1_10ecbplus.xml_4	drunk_110_115--probation_79_88	0.0
+1_10ecbplus.xml_4	violation_89_98--driving_116_123	0.0
+1_15ecbplus.xml_4	treatment_79_88--negotiated_11_21	0.0
+37_13ecbplus.xml_5	depth of 10 kilometers ( 6 miles )_73_107--located_130_137	0.0
+3_8ecbplus.xml_4	pulling_153_160--convicted_52_61	0.0385028530645
+1_4ecbplus.xml_3	shifty_87_93--should_10_16	0.0
+1_4ecbplus.xml_3	shifty_87_93--know_17_21	0.0
+1_4ecbplus.xml_3	trust_36_41--should_10_16	0.0271148233756
+16_2ecbplus.xml_7	avoid_132_137--murder_122_128	0.0448353295565
+1_5ecbplus.xml_3	driving_254_261--perform_142_149	0.0
+1_19ecbplus.xml_1	Rehires_46_53--Checks Into_14_25	0.0
+3_10ecbplus.xml_4	barefoot_19_27--hungry_2_8	0.0292739682447
+24_10ecbplus.xml_2	crash_8_13--ablaze_81_87	0.0365851877347
+37_1ecbplus.xml_4	struck_28_34--depth of just 10 kilometers_47_74	0.0473709486937
+18_10ecbplus.xml_5	consciousness_106_119--attack_65_71	0.0
+18_10ecbplus.xml_5	regained_97_105--attack_65_71	0.0
+16_10ecbplus.xml_4	parole_287_293--life_274_278	0.0
+18_1ecbplus.xml_5	surgery_98_105--believed_41_49	0.0
+18_1ecbplus.xml_5	died_22_26--underwent_88_97	0.0
+18_1ecbplus.xml_5	died_22_26--believed_41_49	0.0
+18_1ecbplus.xml_5	underwent_88_97--believed_41_49	0.0
+16_10ecbplus.xml_4	concluded_212_221--life_274_278	0.0
+12_9ecbplus.xml_3	deployed_38_46--under control_92_121	0.0318101019608
+12_9ecbplus.xml_3	attack_238_244--under control_92_121	0.0318101019608
+18_2ecbplus.xml_3	worked_76_82--suspected_6_15	0.0
+37_12ecbplus.xml_8	difficult_36_45--injured_18_25	0.0
+1_5ecbplus.xml_4	placement_161_170--argued_84_90	0.0358347133888
+1_5ecbplus.xml_4	placement_161_170--approves_148_156	0.0358347133888
+1_5ecbplus.xml_4	allowed_118_125--settling in_44_55	0.0
+12_2ecbplus.xml_1	thwarts_12_19--attempt_27_34	0.0315769644584
+13_14ecbplus.xml_28	scandal_40_47--catch up_76_84	0.0
+37_3ecbplus.xml_4	struck_10_16--centred_74_81	0.0
+37_3ecbplus.xml_4	depth of just six miles_42_65--centred_74_81	0.0
+13_13ecbplus.xml_3	destroyed_18_27--try their hand_160_174	0.0
+18_10ecbplus.xml_3	made way_120_132--arraignment_254_265	0.0
+18_10ecbplus.xml_3	made way_120_132--job_39_42	0.0252956536587
+13_4ecbplus.xml_32	foul play_60_69--knew_76_80	0.0
+13_4ecbplus.xml_32	fire_16_20--knew_76_80	0.0
+8_3ecbplus.xml_5	took to_28_35--gets_223_227	0.0
+35_6ecbplus.xml_7	after_33_38--speeding_136_144	0.0
+19_1ecbplus.xml_4	trashed_173_180--marching_43_51	0.0
+7_7ecbplus.xml_33	waved_70_75--managed_19_26	0.0
+5_1ecbplus.xml_35	took place_137_147--asked_65_70	0.0191071949357
+5_1ecbplus.xml_35	change_205_211--news_33_37	0.0360205202376
+1_12ecbplus.xml_3	pretending_126_136--check into_140_150	0.0
+1_12ecbplus.xml_3	fooled_26_32--check into_140_150	0.0
+37_13ecbplus.xml_8	injured_18_25--difficult_36_45	0.0291379520331
+37_13ecbplus.xml_8	injured_18_25--traffic jams_70_82	0.033370433012
+18_6ecbplus.xml_3	convicted_18_27--left_99_103	0.035174674972
+18_6ecbplus.xml_3	wounded_150_157--left_99_103	0.0180736074104
+3_6ecbplus.xml_4	on foot_150_157--took off_141_149	0.0406952393206
+37_11ecbplus.xml_2	tsunami warning_87_102--issued_103_109	0.0
+37_2ecbplus.xml_7	evacuate_228_236--see_3_6	0.0
+19_10ecbplus.xml_5	mourn_30_35--protest_50_57	0.0448938811747
+41_8ecbplus.xml_15	landed_17_23--attending_71_80	0.0
+41_8ecbplus.xml_15	attending_71_80--explode_110_117	0.0
+37_8ecbplus.xml_8	see_3_6--fell onto_48_57	0.000101066254533
+37_8ecbplus.xml_8	see_3_6--damaged_24_31	0.0401241055041
+1_16ecbplus.xml_1	Pending_77_84--Checks Into_14_25	0.0
+1_16ecbplus.xml_1	Pending_77_84--Rehab_26_31	0.0
+12_8ecbplus.xml_1	transiting_48_58--capturing_134_143	0.0452333540107
+8_6ecbplus.xml_31	battles_23_30--claim_90_95	0.0413384504533
+30_13ecbplus.xml_6	arrival_133_140--finalized_91_100	0.0437611362108
+8_9ecbplus.xml_8	saving_157_163--died_13_17	0.0
+30_3ecbplus.xml_4	cut_98_101--owned by_69_77	0.0348353181279
+1_3ecbplus.xml_5	ordered_185_192--named_228_233	0.0
+18_9ecbplus.xml_3	shot_144_148--walked_85_91	0.0
+16_1ecbplus.xml_8	hide_94_98--dying_35_40	0.0
+8_3ecbplus.xml_26	torched_149_156--set up_119_125	0.0
+8_3ecbplus.xml_26	torched_149_156--extinguished_13_25	0.0388540141129
+18_5ecbplus.xml_3	led_159_162--shot_52_56	0.0
+18_5ecbplus.xml_3	led_159_162--fired_36_41	0.0
+18_5ecbplus.xml_3	led_159_162--wounded_80_87	0.0
+30_11ecbplus.xml_10	depending_112_121--experience_74_84	0.0487795819335
+4_1ecbplus.xml_7	health_59_65--sleep_27_32	0.0
+16_2ecbplus.xml_7	avoid_132_137--used_215_219	0.0432508379945
+16_2ecbplus.xml_7	avoid_132_137--found_8_13	0.0432508379945
+37_4ecbplus.xml_3	hit_37_40--which_31_36	0.0
+37_4ecbplus.xml_3	6 . 1 - magnitude earthquake_2_30--which_31_36	0.0484827728773
+37_10ecbplus.xml_3	killed_14_20--confirmed_160_169	0.0291379520331
+8_10ecbplus.xml_6	trying_59_65--flee_69_73	0.0441069029733
+16_3ecbplus.xml_7	shooting_90_98--appeared_99_107	0.0479149631877
+16_3ecbplus.xml_7	shooting_90_98--spoke_6_11	0.0479149631877
+16_3ecbplus.xml_7	appeared_99_107--spoke_6_11	0.0479149631877
+8_1ecbplus.xml_3	attack_11_17--designed_161_169	0.0
+8_6ecbplus.xml_13	death_236_241--under pressure_67_81	0.0247820381435
+8_6ecbplus.xml_4	strike_59_65--strike_309_315	0.0
+37_3ecbplus.xml_15	difficult_38_47--injured_18_25	0.0
+37_3ecbplus.xml_15	difficult_38_47--evacuate_51_59	0.0383081528834
+3_11ecbplus.xml_7	termination_61_72--faced_76_81	0.026960819209
+37_9ecbplus.xml_3	tsunami_217_224--which_31_36	0.0
+18_8ecbplus.xml_3	job_62_65--lost_53_57	0.0
+18_8ecbplus.xml_3	wounding_147_155--lost_53_57	0.0
+18_6ecbplus.xml_4	kill_185_189--found_27_32	0.0
+14_8ecbplus.xml_5	arrival_5_12--significant_53_64	0.0
+14_8ecbplus.xml_5	found_18_23--significant_53_64	0.0
+1_2ecbplus.xml_4	perform_145_152--checked into_51_63	0.0
+1_2ecbplus.xml_4	perform_145_152--unlicensed_131_141	0.0
+14_9ecbplus.xml_6	tackled_23_30--raised_80_86	0.0
+14_7ecbplus.xml_12	under way_126_135--using_23_28	0.0
+18_5ecbplus.xml_3	killed_61_67--wounded_80_87	0.0
+1_8ecbplus.xml_13	stay_83_87--served_4_10	0.0
+1_8ecbplus.xml_13	drama_110_115--served_4_10	0.0
+37_7ecbplus.xml_11	fell onto_48_57--see_3_6	0.0
+37_7ecbplus.xml_11	see_3_6--damaged_24_31	0.0
+35_9ecbplus.xml_7	after_67_72--drawn_56_61	0.0
+16_1ecbplus.xml_14	murder_181_187--status_28_34	0.0
+37_3ecbplus.xml_3	leading_24_31--hit_98_101	0.0
+37_3ecbplus.xml_3	leading_24_31--dead_127_131	0.0
+37_3ecbplus.xml_3	leading_24_31--injured_145_152	0.037808616571
+19_1ecbplus.xml_5	showed_83_89--calm_29_33	0.0
+20_4ecbplus.xml_4	struck_118_124--restored_10_18	0.0205426849678
+20_4ecbplus.xml_4	restored_10_18--force_142_147	0.0
+7_7ecbplus.xml_34	victory_30_37--coming_101_107	0.0
+35_1ecbplus.xml_9	monitor_19_26--its_71_74	0.0
+35_1ecbplus.xml_9	monitor_19_26--run_67_70	0.0
+35_1ecbplus.xml_9	situation_31_40--its_71_74	0.0
+18_10ecbplus.xml_4	wounded_150_157--dead_90_94	0.0184307211227
+3_8ecbplus.xml_3	smuggled_73_81--trying_235_241	0.0
+3_8ecbplus.xml_3	smuggled_73_81--escaped_264_271	0.0493224719851
+18_11ecbplus.xml_3	chase_163_168--fired_113_118	0.0328174598786
+16_2ecbplus.xml_7	performing_98_108--attempted_259_268	0.0
+30_3ecbplus.xml_4	services_121_129--owned by_69_77	0.0413374514215
+30_10ecbplus.xml_4	restored_91_99--expected_169_177	0.0492700110309
+35_6ecbplus.xml_7	pulled over_116_131--after_33_38	0.0333466301685
+18_2ecbplus.xml_1	worked_67_73--dead_2_6	0.0
+18_2ecbplus.xml_1	worked_67_73--hurt_11_15	0.0
+18_2ecbplus.xml_1	dead_2_6--hurt_11_15	0.0
+8_6ecbplus.xml_16	made the round_44_58--tried_195_200	0.0227043293002
+8_6ecbplus.xml_16	made the round_44_58--visit_204_209	0.0
+12_4ecbplus.xml_3	transiting_94_104--capturing_132_141	0.0135987052436
+12_4ecbplus.xml_3	transiting_94_104--pirate_60_66	0.0301334642563
+12_4ecbplus.xml_3	capturing_132_141--pirate_60_66	0.0301334642563
+37_10ecbplus.xml_4	injured_54_61--devastated_93_103	0.0
+13_9ecbplus.xml_3	demolished_69_79--history_24_31	0.0
+37_14ecbplus.xml_5	located_104_111--depth of just 10 kilometers ( six miles )_40_81	0.0146688247225
+37_14ecbplus.xml_5	located_104_111--struck_28_34	0.0
+37_3ecbplus.xml_14	hit_196_199--see_3_6	0.0
+30_2ecbplus.xml_5	affecting_280_289--owned by_240_248	0.0
+13_7ecbplus.xml_7	fight_40_45--total loss_117_127	0.0
+8_11ecbplus.xml_3	measures_114_122--comes_3_8	0.0449227981639
+13_14ecbplus.xml_26	know_27_31--burned_72_78	0.0
+18_1ecbplus.xml_3	injured_44_51--death_23_28	0.0
+14_9ecbplus.xml_3	charged_15_22--following_45_54	0.0
+14_9ecbplus.xml_3	charged_15_22--devastated_67_77	0.0
+13_4ecbplus.xml_28	connections_81_92--broke out_106_115	0.0
+13_4ecbplus.xml_28	connections_81_92--Arson_0_5	0.0
+35_1ecbplus.xml_3	arrest_111_117--arrested_45_53	0.0
+35_1ecbplus.xml_3	drunken driving_70_85--on suspicion_54_66	0.0
+8_1ecbplus.xml_3	battles_98_105--designed_161_169	0.0
+20_10ecbplus.xml_3	evacuation_158_168--resulting_141_150	0.0
+20_10ecbplus.xml_3	evacuation_158_168--experienced_52_63	0.0
+16_1ecbplus.xml_14	working_227_234--status_28_34	0.0
+3_3ecbplus.xml_6	rape_107_111--theft_178_183	0.0
+3_3ecbplus.xml_6	rape_107_111--rape_78_82	0.0
+37_9ecbplus.xml_3	destroyed_132_141--which_31_36	0.0
+14_9ecbplus.xml_3	arson_39_44--following_45_54	0.0374809260369
+14_9ecbplus.xml_3	fire_57_61--following_45_54	0.0
+18_8ecbplus.xml_3	lost_53_57--opened fire_119_130	0.0
+37_4ecbplus.xml_3	panic_151_156--which_31_36	0.0
+20_7ecbplus.xml_9	strong_68_74--lasted_42_48	0.0114827365104
+37_6ecbplus.xml_5	under debris_56_68--killed_34_40	0.0113980029926
+20_9ecbplus.xml_3	evacuation_147_157--felt_111_115	0.0
+37_3ecbplus.xml_14	quake_190_195--see_3_6	0.0
+37_3ecbplus.xml_14	see_3_6--damaged_24_31	0.0119915201415
+19_3ecbplus.xml_1	shot_138_142--revealed_92_100	0.0475644696377
+37_14ecbplus.xml_12	screamed for help_70_87--ran_31_34	0.0
+37_13ecbplus.xml_5	located_130_137--its_112_115	0.0457315058926
+37_13ecbplus.xml_5	located_130_137--struck_61_67	0.014254889801
+37_7ecbplus.xml_14	tsunami_69_76--recovered_158_167	0.0419863327215
+20_2ecbplus.xml_3	rose_138_142--earthquake_114_124	0.0363017901648
+13_10ecbplus.xml_3	took_89_93--destroyed_14_23	0.0
+13_10ecbplus.xml_3	took_89_93--history_116_123	0.0
+13_10ecbplus.xml_3	destroyed_14_23--history_116_123	0.0
+37_6ecbplus.xml_12	worst - hit_132_143--felt_33_37	0.03703293355
+37_11ecbplus.xml_5	immediate_14_23--damage_35_41	0.0
+37_11ecbplus.xml_5	immediate_14_23--struck_58_64	0.0153424884654
+37_11ecbplus.xml_5	immediate_14_23--quake_52_57	0.0153424884654
+23_5ecbplus.xml_13	death_13_18--killed_68_74	0.0
+8_8ecbplus.xml_3	pregnant_29_37--threw_119_124	0.0
+37_9ecbplus.xml_4	quake_4_9--depth of just 10km_26_44	0.0413122038369
+37_9ecbplus.xml_4	depth of just 10km_26_44--hit_10_13	0.0413122038369
+37_4ecbplus.xml_3	devastated_169_179--which_31_36	0.0
+13_13ecbplus.xml_3	fire_2_6--built_98_103	0.0
+13_13ecbplus.xml_3	fire_2_6--try their hand_160_174	0.0
+13_13ecbplus.xml_3	arrived_132_139--destroyed_18_27	0.0
+37_3ecbplus.xml_3	dead_127_131--injured_145_152	0.0119915201415
+37_4ecbplus.xml_3	quake_187_192--which_31_36	0.0
+37_4ecbplus.xml_3	killed_84_90--which_31_36	0.0
+37_12ecbplus.xml_5	issued_25_31--injured_60_67	0.0
+37_12ecbplus.xml_5	issued_25_31--damaged_79_86	0.0
+37_8ecbplus.xml_9	injured_18_25--traffic jams_70_82	0.0
+37_8ecbplus.xml_9	injured_18_25--difficult_36_45	0.0
+37_8ecbplus.xml_9	evacuate_49_57--difficult_36_45	0.0343908029827
+13_8ecbplus.xml_10	fire_86_90--stored_125_131	0.0
+19_1ecbplus.xml_5	unruly_157_163--calm_29_33	0.0
+19_1ecbplus.xml_5	autopsy_75_82--calm_29_33	0.0
+19_1ecbplus.xml_5	shot_102_106--calm_29_33	0.0
+19_11ecbplus.xml_4	seen_170_174--march_58_63	0.0
+19_2ecbplus.xml_3	riots_95_100--involved_162_170	0.0159361585041
+37_10ecbplus.xml_25	tsunami alert_118_131--Indian Ocean - wide_98_117	0.0
+37_9ecbplus.xml_3	killed_84_90--which_31_36	0.0
+7_7ecbplus.xml_34	coming_101_107--improves_69_77	0.0
+19_3ecbplus.xml_6	poured_67_73--pitching_135_143	0.0458419653655
+12_6ecbplus.xml_3	under control_92_121--piracy_231_237	0.0253991147117
+12_6ecbplus.xml_3	under control_92_121--attack_238_244	0.0
+12_6ecbplus.xml_3	patrols_64_71--attack_238_244	0.0
+37_8ecbplus.xml_11	hit_9_12--recovered_160_169	0.0
+8_8ecbplus.xml_3	protesting_70_80--pregnant_29_37	0.0224113361954
+8_8ecbplus.xml_3	measures_110_118--pregnant_29_37	0.0
+37_9ecbplus.xml_3	injured_113_120--which_31_36	0.0
+37_9ecbplus.xml_3	which_31_36--panic_163_168	0.0
+37_4ecbplus.xml_3	tsunami_205_212--hit_37_40	0.0
+37_4ecbplus.xml_3	tsunami_205_212--which_31_36	0.0
+37_10ecbplus.xml_3	disaster_190_198--Koran reading session_94_115	0.0253566213518
+37_1ecbplus.xml_3	injuring_137_145--devastated_165_175	0.0
+8_3ecbplus.xml_5	defaulting_292_302--keep_279_283	0.0472871046994
+8_3ecbplus.xml_5	defaulting_292_302--took to_28_35	0.0472871046994
+8_3ecbplus.xml_5	defaulting_292_302--strike_64_70	0.0
+23_7ecbplus.xml_8	slipped_57_64--living_35_41	0.0437081318202
+23_7ecbplus.xml_8	living_35_41--fell_69_73	0.0
+23_7ecbplus.xml_8	living_35_41--approaching_132_143	0.0
+37_6ecbplus.xml_3	flattening_99_109--under way_22_31	0.0
+37_6ecbplus.xml_3	landslides_129_139--under way_22_31	0.0
+8_9ecbplus.xml_1	Murder'_53_61--Deaths_46_52	0.0147170010729
+37_10ecbplus.xml_3	collapsed_75_84--Koran reading session_94_115	0.039390953465
+37_6ecbplus.xml_4	which_86_91--killed_38_44	0.0
+13_7ecbplus.xml_7	extinguished_68_80--total loss_117_127	0.0482159086097
+37_2ecbplus.xml_7	see_3_6--damaged_24_31	0.0129905605037
+37_2ecbplus.xml_7	see_3_6--fell onto_48_57	0.0
+37_2ecbplus.xml_7	see_3_6--difficult_215_224	0.0
+37_6ecbplus.xml_3	under way_22_31--hit_67_70	0.0256672144237
+37_6ecbplus.xml_3	under way_22_31--6 . 1 magnitude earthquake_40_66	0.0256672144237
+20_3ecbplus.xml_4	measuring_14_23--killing_142_149	0.0
+20_3ecbplus.xml_4	measuring_14_23--shook_51_56	0.0
+37_2ecbplus.xml_3	injuring_125_133--killing_91_98	0.0128933651454
+37_12ecbplus.xml_6	quake_39_44--quake_141_146	0.0
+20_7ecbplus.xml_2	injuring_110_118--killing_79_86	0.0157898171873
+19_5ecbplus.xml_5	bashed_221_227--smashed_176_183	0.0
+37_10ecbplus.xml_3	bringing_147_155--death toll_170_180	0.0
+37_10ecbplus.xml_3	bringing_147_155--confirmed_160_169	0.0458829888842
+37_10ecbplus.xml_3	EARTHQUAKE_3_13--confirmed_160_169	0.0
+37_10ecbplus.xml_5	damaged_96_103--reduced_15_22	0.0
+20_1ecbplus.xml_11	appeared_118_126--hit_81_84	0.028235367385
+37_4ecbplus.xml_3	destroyed_120_129--which_31_36	0.0
+37_4ecbplus.xml_1	dead_23_27--injured_7_14	0.0
+37_3ecbplus.xml_5	injured_45_52--killed_19_25	0.0
+37_10ecbplus.xml_3	Koran reading session_94_115--bringing_147_155	0.0262492614006
+37_10ecbplus.xml_3	Koran reading session_94_115--EARTHQUAKE_3_13	0.0262492614006
+37_10ecbplus.xml_3	Koran reading session_94_115--killed_14_20	0.0262492614006
+20_3ecbplus.xml_4	flattening_112_122--measuring_14_23	0.0
+20_2ecbplus.xml_4	death_8_13--found_66_71	0.0
+20_4ecbplus.xml_6	damaged_88_95--destroyed_75_84	0.0156815818291
+20_4ecbplus.xml_6	damaged_88_95--felt_176_180	0.0
+20_4ecbplus.xml_6	destroyed_75_84--felt_176_180	0.0117539396487
+37_14ecbplus.xml_3	missing_117_124--killing_66_73	0.0
+37_4ecbplus.xml_3	injured_101_108--which_31_36	0.0209347876335
+37_6ecbplus.xml_4	injured_63_70--which_86_91	0.0
+37_6ecbplus.xml_4	injured_63_70--killed_38_44	0.0379285595435
+37_6ecbplus.xml_4	which_86_91--quake_78_83	0.0
+37_6ecbplus.xml_4	which_86_91--struck_92_98	0.0
+37_1ecbplus.xml_24	Indian Ocean - wide_98_117--tsunami alert_118_131	0.0
+37_9ecbplus.xml_3	which_31_36--devastated_181_191	0.0106070103472
+37_9ecbplus.xml_3	which_31_36--quake_199_204	0.0
+37_9ecbplus.xml_3	which_31_36--hit_37_40	0.0
+20_5ecbplus.xml_3	wounding_105_113--killing_82_89	0.0253566213518
+20_2ecbplus.xml_22	providing_99_108--damaged_16_23	0.0398995214625
+20_4ecbplus.xml_3	forced_148_154--killed_127_133	0.0245277160211
+16_4ecbplus.xml_1	shooting_104_112--married_62_69	0.0187820917644
+37_9ecbplus.xml_3	6 . 1 - magnitude earthquake_2_30--which_31_36	0.0215834710862
+37_12ecbplus.xml_3	killing_123_130--missing_167_174	0.0
+37_12ecbplus.xml_6	power outage_160_172--ran_7_10	0.0
+37_1ecbplus.xml_25	injured_32_39--died_12_16	0.0102384862616
+37_8ecbplus.xml_11	recovered_160_169--tsunami_71_78	0.0
+37_8ecbplus.xml_11	recovered_160_169--killing_89_96	0.0
+7_8ecbplus.xml_4	round_133_138--stopping_77_85	0.048335031451
+20_1ecbplus.xml_3	killing_46_53--injuring_75_83	0.0
+20_1ecbplus.xml_3	killing_46_53--damaging_100_108	0.0
+37_1ecbplus.xml_1	injured_19_26--dead_5_9	0.0

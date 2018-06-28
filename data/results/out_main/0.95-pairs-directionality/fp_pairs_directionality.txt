@@ -1,0 +1,14 @@
+37_12ecbplus.xml_6	quake_39_44--power outage_160_172	0.97910720194
+37_3ecbplus.xml_1	6 . 1 magnitude quake_55_76--injured_44_51	0.95263608706
+37_14ecbplus.xml_1	Magnitude - 6 . 1 quake_0_23--dead_43_47	0.963059864909
+37_9ecbplus.xml_3	panic_163_168-r-quake_199_204	0.963589068183
+33_6ecbplus.xml_2	verdict_38_45-r-murder_71_77	1.0
+37_1ecbplus.xml_3	landslides_83_93-r-quake_183_188	0.954802986747
+23_3ecbplus.xml_2	fallen_44_50--deaths_60_66	0.9623531173
+19_9ecbplus.xml_5	riot_45_49-r-march_18_23	0.995257536731
+33_1ecbplus.xml_12	trial_61_66--testified_44_53	0.970175141078
+41_9ecbplus.xml_3	bombed_24_30--alleges_115_122	0.981260616575
+20_8ecbplus.xml_9	quake_109_114--affected_93_101	0.965717631596
+18_11ecbplus.xml_1	Sacked_0_6--shoots_14_20	0.972147299309
+20_11ecbplus.xml_11	felt_47_51-r-aftershocks_30_41	0.970513258174
+23_3ecbplus.xml_1	fall_32_36--deaths_46_52	0.979654238541
