@@ -4,6 +4,17 @@ Crowdsourced ground truth dataset for 1,204 sentences and 7,778 event pairs cove
 
 * Tommaso Caselli and Oana Inel: **Crowdsourcing StoryLines: Harnessing the Crowd for Causal Relation Annotation**. [Events and Stories in the News Workshops, COLING 2018](http://www.eventstory.news)
 
+If you find this data useful in your research, please consider citing:
+
+```
+@inproceedings{caselli2018crowdsourcing,
+  title={Crowdsourcing StoryLines: Harnessing the Crowd for Causal Relation Annotation},
+  author={Caselli, Tommaso and Inel, Oana},
+  booktitle={Proceedings of the Workshop Events and Stories in the News 2018},
+  pages={44--54},
+  year={2018}
+}
+```
 
 Crowdsourcing results and evaluation against expert data are available in folder:
 ``` |--data/results/ ```
@@ -16,3 +27,11 @@ Aggregated raw crowdsourcig data is available in folder:
 
 Raw crowdsourcig data is available in folder:
 ``` |--data/input/ ```
+
+
+## Running the notebooks
+
+To run and regenerate the results, you need to install the stable version of the **crowdtruth==2.0** package from PyPI using:
+```
+pip install crowdtruth==2.0
+```
